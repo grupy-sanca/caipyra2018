@@ -2311,6 +2311,21 @@ ul {
         padding-left: 0.5em;
     }
 
+    ul.meau {
+        list-style: none;
+        padding-left: 0;
+    }
+
+        ul.meau li {
+            border-top: solid 0px #dbdbdb;
+            padding: 0.5em 10em;
+            color: #e4e4e4;
+        }
+
+        ul.meau li a{
+            color: #e4e4e4;
+        }
+
     ul.alt {
         list-style: none;
         padding-left: 0;
@@ -3015,8 +3030,8 @@ button,
 }
 
 #footer .copyright {
-    color: #bbb;
-    font-size: 0.8em;
+    color: #5f5656;
+    font-size: 0.9em;
     margin: 0 0 2em 0;
     padding: 0;
 }
