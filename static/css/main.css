@@ -1665,7 +1665,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
     font-size: 1.75em;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 h3 {
@@ -2318,7 +2318,6 @@ ul {
 
         ul.meau li {
             border-top: solid 0px #dbdbdb;
-            padding: 0.5em 8em;
             color: #e4e4e4;
         }
 
@@ -2956,11 +2955,11 @@ button,
 }
 
     #banner h1 {
-        font-size: 3.5em;
+        font-size: 2.5em;
         font-weight: 100;
         color: #fff;
         line-height: 1em;
-        margin: 0 0 0.5em 0;
+        margin: 0.3em 0 0.3em 0;
         padding: 0;
     }
 
@@ -2971,7 +2970,8 @@ button,
     }
 
     #banner img {
-        width: 25%;
+        width: 20%;
+        margin: 20px 0px;
     }
 
     @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -3030,8 +3030,8 @@ button,
 }
 
 #footer .copyright {
-    color: #5f5656;
-    font-size: 0.9em;
+    color: #888;
+    font-size: 0.8em;
     margin: 0 0 2em 0;
     padding: 0;
 }
