@@ -3081,3 +3081,11 @@ button,
     }
 
 }
+
+    .organizers a:link {
+        text-decoration: none;
+}
+
+    .organizers a:hover {
+        font-weight: bold;
+}
