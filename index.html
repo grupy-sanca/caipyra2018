@@ -22,6 +22,9 @@
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="stylesheet" href="static/css/main.css" />
 
+    <link rel="stylesheet" href="static/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="static/css/owl.theme.default.min.css">
+
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 
@@ -51,7 +54,11 @@
             <h3>O Evento</h3>
           </header>
             <p>
-              O Caipyra é um evento inspirado na Python Brasil (maior evento Python da América Latina) e visa, sem fins lucrativos, disseminar conhecimento sobre diversas áreas da tecnologia. Como o próprio nome já diz, somos um evento focado em Python, porém aberto a diversas tecnologias que são trazidas e abordadas pelos nossos ilustres convidados.
+              O Caipyra é um evento inspirado na Python Brasil (maior evento Python da América Latina) e visa,
+                sem fins lucrativos, disseminar conhecimento sobre diversas áreas da tecnologia. Como o próprio nome
+                já diz, somos um evento focado em Python, porém aberto a diversas tecnologias que são trazidas e
+                abordadas pelos nossos ilustres convidados. O evento está na sua terceira edição e será
+                realizado na cidade São Carlos - São Paulo.
             </p>
 
         </article>
@@ -61,12 +68,96 @@
             <h3>Inscreva-se</h3>
           </header>
           <footer>
-            <a href="#" class="button special">Em Breve</a>
+             <p>Aguarde, estamos contabilizando a quantidade de paçoquinha e quentão para atender a todos! </p>
+            <a class="button alt" id="remove_link">Em Breve</a>
           </footer>
         </article>
       </div>
     </div>
   </section>
+
+
+  		<!-- Three -->
+			<section id="three" class="wrapper style1 special">
+				<div class="inner">
+					<div class="flex flex-2">
+						<article>
+							<div class="image fit">
+								<img src="images/djangogirls.jpg" alt="Pic 01" />
+							</div>
+							<header>
+								<h3>Django Girls</h3>
+							</header>
+                                <p>Django Girls é uma iniciativa internacional que busca aumentar a diversidade no
+                                    mundo da tecnologia ensinando mulheres programação num workshop de um dia.</p>
+
+                                 <p>Neste workshop, uma turma de 30 mulheres com ajuda de suas treinadoras irão aprender
+                                     a construir e fazer o deploy de uma aplicação web usando HTML, CSS, Python
+                                     e Django. As inscrições serão abertas em breve!</p>
+
+							<footer>
+								<a href="https://djangogirls.org/" class="button" target="_blank">Conheça</a>
+							</footer>
+						</article>
+						<article>
+							<div class="image fit">
+								<img src="images/palestras.jpg" alt="Pic 02" />
+							</div>
+							<header>
+								<h3>Palestras (23 e 24 de Junho)</h3>
+							</header>
+                                <p>Como o evento é feito para a comunidade Python, em breve, o Caipyra abrirá espaço
+                                    para qualquer pessoa submeter sua palestra para uma votação aberta
+                                    pelo <a href="https://speakerfight.com/" style="color: #ffffff;" target="_blank">
+                                        SpeakerFight</a>. Fiquem atentos!</p>
+
+                                <p>Além das palestras tradicionais, durante o evento irão ocorrer Lightning talks,
+                                onde qualquer pessoa presente pode fazer uma apresentação curta, de 5 minutos, sobre
+                                o tema que quiser. Só não vale quebrar o código de conduta.</p>
+							<footer>
+								<a href="https://github.com/pythonbrasil/codigo-de-conduta" class="button"
+                                   target="_blank">Código de Conduta</a>
+							</footer>
+						</article>
+					</div>
+				</div>
+			</section>
+
+    <!-- Three -->
+    <section id="two" class="wrapper special">
+      <div class="inner">
+        <header>
+          <h2>Agenda</h2>
+            <p>Save the Dates!</p>
+        </header>
+
+          <!-- Set up your HTML -->
+          <section id="demos">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+              <h4>21/06 (Quinta-Feira)</h4>
+                <p>A Definir</p>
+            </div>
+            <div class="item">
+              <h4>22/06 (Sexta-Feira)</h4>
+                <p>A Definir</p>
+            </div>
+            <div class="item">
+              <h4>23/06 (Sábado)</h4>
+                <p>Palestras</p>
+            </div>
+            <div class="item">
+              <h4>24/06 (Domingo)</h4>
+                <p>Palestras</p>
+            </div>
+            <div class="item">
+              <h4>25/06 (Segunda-Feira)</h4>
+                <p>A Definir</p>
+            </div>
+        </div>
+          </section>
+      </div>
+    </section>
 
   <!-- Two -->
     <!--section id="two" class="wrapper style1 special">
@@ -108,15 +199,6 @@
       </div>
     </section-->
 
-  <!-- Three -->
-    <!--section id="two" class="wrapper special">
-      <div class="inner">
-        <header>
-          <h2>Agenda</h2>
-          <p>Semper suscipit posuere apede</p>
-        </header>
-    </section-->
-
   <!-- Four -->
   <section id="three" class="wrapper style1 special">
     <div class="inner organizers">
@@ -142,7 +224,7 @@
           </article>
           <article>
             <ul class="meau align-center">
-              <li><a href="https://github.com/ArthurFortes" target="_blank">Arthur Fortes</a></li>
+              <li><a href="https://arthurfortes.github.io/" target="_blank">Arthur Fortes</a></li>
               <li>Douglas Shimada</li>
               <li><a href="https://github.com/julianaklulo" target="_blank">Juliana Karoline</a></li>
               <li><a href="https://github.com/leonardoam" target="_blank">Leonardo Miguel</a></li>
@@ -184,10 +266,40 @@
   </footer>
 
   <!-- Scripts -->
-  <script src="assets/js/jquery.min.js"></script>
-  <script src="assets/js/skel.min.js"></script>
-  <script src="assets/js/util.js"></script>
-  <script src="assets/js/main.js"></script>
+  <script src="static/js/jquery.min.js"></script>
+  <script src="static/js/owl.carousel.min.js"></script>
+  <script src="static/js/skel.min.js"></script>
+  <script src="static/js/util.js"></script>
+  <script src="static/js/main.js"></script>
+
+    <script type="application/javascript">
+
+    $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        responsiveClass:true,
+        responsive:{
+            0:{
+                items:1,
+                nav:true
+            },
+            600:{
+                items:3,
+                nav:false
+            },
+            1000:{
+                items:5,
+                nav:true,
+                loop:false
+            }
+        }
+    })
+    </script>
+
+    <script type="application/javascript">
+        $('#remove_link').css("pointer-events", "none");
+    </script>
+
 
 </body>
 </html>
