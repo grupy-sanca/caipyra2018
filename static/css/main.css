@@ -2970,7 +2970,7 @@ button,
     }
 
     #banner img {
-        width: 20%;
+        max-width: 100%;
         margin: 20px 0px;
     }
 
@@ -3121,4 +3121,131 @@ button,
 
 #demos .demo-list h5 {
     margin: 0
+}
+
+#demos .img {
+    color: #fff;
+    font-size: 30px;    
+}
+
+/* Boostrap Media object */
+
+.media-right,
+.media > .pull-right {
+  padding-left: 10px;
+}
+.media-left,
+.media > .pull-left {
+  padding-right: 10px;
+}
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.media, .media .media {
+    margin-top: 25px;
+}
+
+.media-heading {
+    display: inline;
+}
+
+
+.media-left {
+    position: relative;
+    width: 50px;
+}
+
+.media-left .img-circle {
+    border: 2px solid #5385c1;
+    border-radius: 50%; 
+}
+
+.media-left.lightning-talk:before  {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    background: url('img/icon_lightning.png') no-repeat;
+    top: 4px;
+    left: 48px;
+}
+
+.media .img{
+    font-size: 24px;
+    color: #5385c1;
+}
+
+.label-danger {
+    background-color: #5385c1;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.label-danger2 {
+    background-color: #5a5a5a;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.label-danger3 {
+    background-color: #d4ce56;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.label .legend {
+
+}
+
+/* Grid objects */
+
+.grid { 
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);; 
+  justify-items: center;
+  grid-template-rows: auto;
+  align-self: center;
+
+}
+
+.grid img{
+  max-width: 100%;
+}
+
+.grid-realizacao { 
+  display: grid;
+  grid-template-columns: 1fr; 
+  justify-items: center;
+  align-items: center;
+  justify-content: space-evenly;
+
 }
