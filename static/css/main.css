@@ -1651,6 +1651,10 @@ p {
     margin: 0 0 2em 0;
 }
 
+p .bold{
+    font-weight: bold;
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: #5385c1;
     font-weight: 300;
@@ -1665,11 +1669,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
     font-size: 1.75em;
-    font-weight: 300;
+    font-weight: bold;
 }
 
 h3 {
     font-size: 1.35em;
+    font-weight: bold;
 }
 
 h4 {
@@ -2704,6 +2709,10 @@ button,
         opacity: 0.25;
     }
 
+    .button i{
+        padding-right: 10px;
+    }
+
     @media screen and (max-width: 480px) {
 
         input[type="submit"],
@@ -3097,7 +3106,8 @@ button,
 }
 
 #demos .owl-carousel .item p {
-    color: #bacee6;
+    color: #fff;
+    font-weight: bold;
     margin-top: 0rem
 }
 
