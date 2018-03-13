@@ -1730,12 +1730,9 @@ pre {
 hr {
     border: 0;
     border-bottom: solid 1px #dbdbdb;
-    margin: 2em 0;
+    margin: 2em auto;
+    width: 60%;
 }
-
-    hr.major {
-        margin: 3em 0;
-    }
 
 .align-left {
     text-align: left;
@@ -3095,7 +3092,6 @@ button,
 }
 
 #demos .owl-carousel .item {
-    height: 10rem;
     background: #5385c1;
     padding: 1rem
 }
@@ -3126,6 +3122,7 @@ button,
 #demos .img {
     color: #fff;
     font-size: 30px;    
+    margin-bottom: 10px;
 }
 
 /* Boostrap Media object */
@@ -3230,7 +3227,7 @@ button,
 
 .grid { 
   display: grid;
-  grid-template-columns: repeat(2, 1fr);; 
+  grid-template-columns: repeat(2, 1fr);
   justify-items: center;
   grid-template-rows: auto;
   align-self: center;
