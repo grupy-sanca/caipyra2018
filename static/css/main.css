@@ -1805,6 +1805,7 @@ section.wrapper, article.wrapper {
 
         section.wrapper.style1 header h2, article.wrapper.style1 header h2 {
             color: #fff;
+            text-align: center;
         }
 
         section.wrapper.style1 header p, article.wrapper.style1 header p {
@@ -1812,6 +1813,10 @@ section.wrapper, article.wrapper {
         }
 
         section.wrapper.style1 h3, article.wrapper.style1 h3 {
+            color: #FFF;
+        }
+
+        section.wrapper.style1 b, article.wrapper.style1 b {
             color: #FFF;
         }
 
