@@ -1915,7 +1915,6 @@ header h6 + p {
             height: 100%;
             right: -2em;
             top: 0;
-            border-right: 1px solid #dbdbdb;
             pointer-events: none;
         }
 
@@ -2320,11 +2319,11 @@ ul {
 
         ul.meau li {
             border-top: solid 0px #dbdbdb;
-            color: #e4e4e4;
+            color: #999;
         }
 
         ul.meau li a{
-            color: #e4e4e4;
+            color: #999;
         }
 
     ul.alt {
@@ -3098,6 +3097,29 @@ button,
 
     #demos .owl-carousel {
     margin: 2rem 0
+}
+
+#speakers .owl-carousel .item {
+    background: #fff;
+    padding: 1rem
+}
+
+#speakers .owl-carousel .item p {
+    color: #5385c1;
+    font-weight: bold;
+    margin-top: 0rem
+}
+
+#speakers .owl-carousel .item p {
+    color: #5385c1;
+    font-weight: bold;
+    margin-top: 0rem
+}
+
+#speakers .owl-carousel .item h4 {
+    color: #5385c1;
+    font-weight: 400;
+    margin-top: 0rem
 }
 
 #demos .owl-carousel .item {
