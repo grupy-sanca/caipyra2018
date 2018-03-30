@@ -2672,8 +2672,12 @@ button,
     input[type="button"].special,
     button.special,
     .button.special {
-        background-color: #5385c1;
-        color: #ffffff !important;
+        background-color: #ead318;
+        color: #013a81 !important;
+        /* border-style: dotted; */
+        margin-top: 25px;
+        margin-bottom: 30px;
+        border-radius: 50px;
     }
 
         input[type="submit"].special:hover,
