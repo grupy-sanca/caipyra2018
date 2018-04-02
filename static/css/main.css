@@ -3261,17 +3261,26 @@ button,
 
 /* Grid objects */
 
-.grid { 
+.grid1 { 
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   justify-items: center;
   grid-template-rows: auto;
   align-self: center;
+}
 
+.grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 30px;
+  justify-items: center;
+  align-items: center;
+  grid-template-rows: auto;
 }
 
 .grid img{
   max-width: 100%;
+  width: 100%;
 }
 
 .grid-realizacao { 
