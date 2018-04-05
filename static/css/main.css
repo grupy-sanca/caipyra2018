@@ -2828,7 +2828,7 @@ button,
 @media screen and (max-width: 980px) {
 
     #header {
-        top: 3em;
+        top: 0em;
         height: 44px;
         line-height: 44px;
     }
@@ -2850,7 +2850,7 @@ button,
 @media screen and (max-width: 480px) {
 
     #header {
-        top: 1em;
+        top: 0em;
         min-width: 320px;
     }
 
