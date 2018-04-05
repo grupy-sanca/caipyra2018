@@ -2748,7 +2748,7 @@ button,
     cursor: default;
     height: 70px;
     left: 0;
-    line-height: 4em;
+    line-height: 4.3em;
     position: absolute;
     text-align: right;
     font-weight: 600;
@@ -2828,6 +2828,7 @@ button,
 
     #header .logo{
         padding: 0;
+        padding-top: 3px;
     }
 
 }
