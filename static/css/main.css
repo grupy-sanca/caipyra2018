@@ -2766,6 +2766,7 @@ button,
     #header .logo {
         left: 0;
         position: absolute;
+        padding-top: 10px;
 
     }
 
