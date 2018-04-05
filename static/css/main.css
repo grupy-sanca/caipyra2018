@@ -2746,7 +2746,7 @@ button,
 #header {
     color: #f3f3f4;
     cursor: default;
-    height: 4em;
+    height: 70px;
     left: 0;
     line-height: 4em;
     position: absolute;
@@ -2764,17 +2764,9 @@ button,
     }
 
     #header .logo {
-        color: #ffffff;
-        display: inline-block;
-        font-weight: 600;
-        height: inherit;
         left: 0;
-        line-height: inherit;
-        margin: 0;
-        padding: 3.5px;
         position: absolute;
-        top: 0;
-        font-size: 1em;
+
     }
 
     #header a {
@@ -2829,8 +2821,8 @@ button,
 
     #header {
         top: 0em;
-        height: 44px;
-        line-height: 44px;
+        height: 55px;
+        line-height: 55px;
     }
 
     #header .logo{
@@ -3279,7 +3271,7 @@ button,
   align-self: center;
 }
 
-.grid{
+.grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
   grid-gap: 30px;
@@ -3288,7 +3280,7 @@ button,
   grid-template-rows: auto;
 }
 
-.grid img{
+.grid img {
   max-width: 100%;
   width: 100%;
 }
@@ -3300,4 +3292,13 @@ button,
   align-items: center;
   justify-content: space-evenly;
 
+}
+
+.grid-realizacao img {
+  max-width: 100%;
+  width: 100%;
+}
+
+.grid-realizacao a {
+  max-width: 100%;
 }
