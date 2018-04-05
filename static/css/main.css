@@ -2685,7 +2685,7 @@ button,
         input[type="button"].special:hover,
         button.special:hover,
         .button.special:hover {
-            background-color: #6692c8;
+            background-color: #f3f3f3;
         }
 
         input[type="submit"].special:active,
@@ -2693,7 +2693,7 @@ button,
         input[type="button"].special:active,
         button.special:active,
         .button.special:active {
-            background-color: #4278b8;
+            background-color: #f3f3f3;
         }
 
     input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2744,16 +2744,18 @@ button,
     }
 
 #header {
-    color: #d4e0ef;
+    color: #f3f3f4;
     cursor: default;
-    height: 3.25em;
+    height: 4em;
     left: 0;
-    line-height: 3.25em;
+    line-height: 4em;
     position: absolute;
     text-align: right;
-    top: 4em;
+    font-weight: 600;
     width: 100%;
     z-index: 10001;
+    background: #5385c1;
+    position: fixed;
 }
 
     #header .inner {
@@ -2769,7 +2771,7 @@ button,
         left: 0;
         line-height: inherit;
         margin: 0;
-        padding: 0;
+        padding: 3.5px;
         position: absolute;
         top: 0;
         font-size: 1em;
@@ -2831,12 +2833,16 @@ button,
         line-height: 44px;
     }
 
+    #header .logo{
+        padding: 0;
+    }
+
 }
 
 @media screen and (max-width: 736px) {
 
     #header {
-        top: 2em;
+        top: 0em;
     }
 
 }
@@ -2953,7 +2959,7 @@ button,
 /* Banner */
 
 #banner {
-    padding: 1em 0 1em 0;
+    padding: 4em 0 1em 0;
     background-image: url('../../images/banner1.png');
     background-size: cover;
     background-position: top;
@@ -2970,6 +2976,10 @@ button,
         line-height: 1em;
         margin: 0.3em 0 0.3em 0;
         padding: 0;
+    }
+
+    #banner h2 {
+        color: #ead318;
     }
 
     #banner p {
