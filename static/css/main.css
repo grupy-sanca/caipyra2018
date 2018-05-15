@@ -1651,7 +1651,7 @@ p {
     margin: 0 0 2em 0;
 }
 
-p .bold{
+p.bold{
     font-weight: bold;
 }
 
@@ -1739,6 +1739,10 @@ hr {
     width: 60%;
 }
 
+hr.line{
+    width: 100%;
+}
+
 .align-left {
     text-align: left;
 }
@@ -1817,7 +1821,15 @@ section.wrapper, article.wrapper {
         }
 
         section.wrapper.style1 h3, article.wrapper.style1 h3 {
-            color: #FFF;
+            color: #fff;
+        }
+
+        section.wrapper.style1 a, article.wrapper.style1 a {
+            color: #fff;
+        }
+
+        section.wrapper.style1 b, article.wrapper.style1 b {
+            color: #fff;
         }
 
     @media screen and (max-width: 980px) {
@@ -2641,6 +2653,7 @@ button,
         background-color: transparent;
         box-shadow: inset 0 0 0 2px #dbdbdb;
         color: #555 !important;
+        margin-bottom: 10px;
     }
 
         input[type="submit"].alt:hover,
@@ -3215,6 +3228,11 @@ button,
 .media .img{
     font-size: 24px;
     color: #5385c1;
+}
+
+.media small p{
+    text-align: justify; 
+    margin: 0px 0 0em 0;
 }
 
 .label-danger {
