@@ -3221,7 +3221,7 @@ button,
     background-color: #5385c1;
     display: inline;
     padding: .2em .6em .3em;
-    font-size: 75%;
+    font-size: 85%;
     font-weight: bold;
     line-height: 1;
     color: #ffffff;
@@ -3235,7 +3235,7 @@ button,
     background-color: #5a5a5a;
     display: inline;
     padding: .2em .6em .3em;
-    font-size: 75%;
+    font-size: 85%;
     font-weight: bold;
     line-height: 1;
     color: #ffffff;
@@ -3249,7 +3249,21 @@ button,
     background-color: #d4ce56;
     display: inline;
     padding: .2em .6em .3em;
-    font-size: 75%;
+    font-size: 85%;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.label-danger4 {
+    background-color: #e55512;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 85%;
     font-weight: bold;
     line-height: 1;
     color: #ffffff;
@@ -3303,4 +3317,120 @@ button,
 
 .grid-realizacao a {
   max-width: 100%;
+}
+
+
+/*
+ * Speakers
+ */
+
+.speakers ul {
+    padding: .5vw;
+    font-size: 0;
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+    -ms-flex-direction: column;
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    display: -webkit-box;
+    display: flex;
+}
+
+.speakers li {
+    -webkit-box-flex: auto;
+    -ms-flex: auto;
+    flex: auto;
+    width: 200px;
+    margin: .5vw;
+    background-color: #e8e8e8;
+    position: relative;
+    overflow: hidden;
+}
+
+.speakers img {
+    width: 100%;
+    height: auto;
+}
+
+.speakers ul li > div {
+    position: absolute;
+    bottom: -82%;
+    z-index: 2;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    color: #fff;
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-transition: bottom .3s ease-in-out;
+    transition: bottom .3s ease-in-out;
+    padding: 10px;
+}
+
+.speakers h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+    color: #fff;
+}
+
+.speakers ul li > div p {
+    font-size: 15px;
+    line-height: 13px;
+    margin: 1em 0 2em 0;
+}
+
+.speakers ul li > div a {
+    color: #fff;
+}
+
+.speakers li:hover div {
+    bottom: 0px;
+}
+
+@media screen and (max-width: 1000px) {
+    .speakers {
+        clear: both;
+    }
+
+    .speakers ul li > div {
+        bottom: -88%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+  .speakers ul { padding: 0; }
+  .speakers li { margin: 0; margin-bottom: 20px;}
+}
+
+
+/*
+ * BACK TO TOP
+ */
+
+
+.back-to-top {
+            position: fixed;
+            bottom: 2em;
+            right: 2em;
+            text-decoration: none;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.3);
+            font-size: 12px;
+            padding: 1em;
+            display: none;
+        }
+        .back-to-top:hover {
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+@media screen and (max-width: 1000px) {
+    .back-to-top {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+  .back-to-top {
+        display: none;
+  }
 }
