@@ -3144,18 +3144,18 @@ button,
 }
 
 #demos .owl-carousel .item {
-    background: #5385c1;
+    background: #fff;
     padding: 1rem
 }
 
 #demos .owl-carousel .item p {
-    color: #fff;
+    color: #5385c1;
     font-weight: bold;
     margin-top: 0rem
 }
 
 #demos .owl-carousel .item h4 {
-    color: #FFF;
+    color: #5385c1;
     font-weight: 400;
     margin-top: 0rem
 }
@@ -3173,7 +3173,7 @@ button,
 }
 
 #demos .img {
-    color: #fff;
+    color: #5385c1;
     font-size: 30px;    
     margin-bottom: 10px;
 }
@@ -3420,6 +3420,9 @@ button,
   .speakers li { margin: 0; margin-bottom: 20px;}
 }
 
+.tuto p{
+    margin: 0px 0em 1em 12em;
+}
 
 /*
  * BACK TO TOP
