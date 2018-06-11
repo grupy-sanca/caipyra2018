@@ -117,3 +117,4 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 ### Lightning Talks
 
 - [Marcelo Miky](../LightningTalks/Miky.pdf)
+- [Rafael Beraldo](../LightningTalks/Beraldo.pdf)
