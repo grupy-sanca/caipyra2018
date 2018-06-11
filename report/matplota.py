@@ -2,9 +2,6 @@ import matplotlib.pyplot as plt
 import matplotlib.lines  as lines
 import numpy as np
 
-print("TODO:")
-print("\t trasnparent true")
-
 # dados em cada ano
 # https://github.com/jtemporal/caipyra/blob/master/caipyra/estatisticas.py
 anos    = [2016, 2017, 2018]
@@ -31,7 +28,7 @@ with plt.xkcd():
     plt.yticks([130, 200, 240])
 
     plt.plot(anos, participantes, '-', label = "Participants")
-    plt.title("Caipyras of Caiyra")
+    plt.title("Caipyras of Caipyra")
     plt.xlabel("Year")
     plt.legend()
     plt.savefig("peoples.png",

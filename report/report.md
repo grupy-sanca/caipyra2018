@@ -101,11 +101,11 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 - [Caroline Dantas](#)
 - [Guilherme Vierno](#)
 - [Geraldo Barros](../palestras/GeraldoBarros.pdf)
-- [Renne Rocha](#)
+- [Renne Rocha](../palestras/RenneRocha.pdf)
 - [Nilton Kazuyuki Ueda](#)
 - [João Rafael Martins](../palestras/JoaoRafael.pdf)
 - [Danilo Roberto Shiga](#)
-- [Eduardo Cuducos](#)
+- [Eduardo Cuducos](../palestras/Cuducos.pdf)
 - [Vitória O. Baldan](../palestras/VitoriaBaldan.pdf)
 
 ### Lightning Talks
