@@ -25,8 +25,7 @@ Universidade de São Paulo (USP).
 ![](foods.png)
 ![](custos.png)
 
-Trilha sonora do evento:
-https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7
+[Trilha sonora do evento](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
 
 ## Django Girls
 
@@ -58,6 +57,13 @@ https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5
 The only Python event with
 [Quentão](https://en.wikipedia.org/wiki/Cocktails_with_cachaça#Quentão_(Hot_Stuff))
 and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
+
+![](peoples.png)
+![](generos.png)
+![](foods.png)
+![](custos.png)
+
+[Event soundtrack](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
 
 ## Django Girls
 
@@ -97,7 +103,7 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 - [Jadson J. M. Oliveira](#)
 - [Krissia Zawadzki](../palestras/Krissia.pdf)
-- [Beatriz Uezu](#)
+- [Beatriz Uezu](../palestras/BeatrizUezu.pdf)
 - [Caroline Dantas](#)
 - [Guilherme Vierno](#)
 - [Geraldo Barros](../palestras/GeraldoBarros.pdf)
