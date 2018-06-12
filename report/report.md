@@ -135,7 +135,7 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 ### Keynotes
 
-- [Prof. Dr. Rodrigo Mello](#)
+- [Prof. Dr. Rodrigo Mello](../palestras/Keynote-Mello.pdf)
 - [Prof. Dr. Paulo Matias](../palestras/keynote-PauloMatias.pdf)
 - [Juliana Oliveira](../palestras/keynote-JulianaOliveira.pdf)
 - [Osvaldo Santana](../palestras/keynote-OsvaldoSantana.pdf)
