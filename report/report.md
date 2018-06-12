@@ -11,16 +11,16 @@ O único evento de Python com Quentão e Paçoquinha!
 
 O Caipyra é um evento inspirado na Python Brasil (maior evento Python da
 América Latina) e visa, sem fins lucrativos, disseminar conhecimento sobre
-diversas áreas da tecnologia. 
+diversas áreas da tecnologia.
 
 Como o próprio nome já diz, o Caipyra, é um encontro organizado pela
 comunidade Python do interior de São Paulo, para pessoas interessadas em
 conhecer ou se aprofundar nesta linguagem, porém aberto a diversas
-tecnologias que são trazidas e abordadas pelos nossos ilustres convidados. 
+tecnologias que são trazidas e abordadas pelos nossos ilustres convidados.
 
 O evento está na sua terceira edição e será realizado na cidade São
 Carlos - São Paulo, no Instituto de Ciências Matemáticas e Computacional na
-Universidade de São Paulo (USP). 
+Universidade de São Paulo (USP).
 
 O evento está sempre crescendo:
 
@@ -38,15 +38,46 @@ O evento custou cerca de 22 mil reais, gastos assim:
 
 ![](imgs/custos.png)
 
-[Trilha sonora do evento](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
+Nosso eventou contou com uma
+[trilha sonora fantástica!](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
 
 ## Django Girls
 
-## Keynotes
-
 ## Palestras
 
+Tivemos 16 palestras nesta edição do evento, distribuídas em dois
+auditórios durante dois dias:
+
+- Sábado
+  - Jadson Oliveira - Indicadores Inteligentes para Detecção de Epidemias de Dengue através do monitoramento de Redes Sociais em Tempo Real
+  - Krissia Zawadzki - Hey físicas e físicos! Vocês têm um minutinho para ouvir a Pylavra da serpente quântica?
+  - Prof. Dr. Rodrigo Fernandes de Mello
+  - Beatriz Uezu - Visualizando query SQL a partir do ORM Django
+  - Caroline Dantas - Computação Neuromórfica - O que é isso??? Como se usa Python Nisso??
+  - Guilherme Vierno - Microservices em Python: desafios e soluções
+  - Geraldo Barros - Internet Health Report:  Cinco tópicos-chave determinarão o futuro da Saúde da Internet
+  - Prof. Dr. Paulo Matias - Hackeando a urna eletrônica brasileira com o Python
+- Domingo
+  - Juliana Oliveira - Processamento Paralelo para Pythonistas
+  - Renne Rocha - Extraindo dados da internet usando Scrapy
+  - Nilton Kazuyuki Ueda - [BI & Analytics] Data Visualization in Tableau with TabPy
+  - João Rafael Martins - Introdução ao Machine Learning e NLP
+  - Danilo Roberto Shiga - Exceptions: e porque não são só para erros
+  - Eduardo Cuducos - Tecnologia cívica: o que importa são as perguntas!
+  - Vitoria Ongaratto Baldan - Python na Astronomia
+  - Osvaldo Santana - Como funciona um time remoto de desenvolvimento
+
+Os slides estão disponíveis [aqui](#slides).
+
+
 ## Lightning Talks
+
+_Lightning talk_ é uma palestra bem curta, de no máximo 5 minutos. As
+submissões são feitas na hora, e _qualquer_ pessoa pode submeter! Não há restrições
+quanto ao tema. Quando o cronômetro indica 5 minutos, o palestrante é aplaudido
+e o próximo entra :D
+
+Esses foram os _lightning talkistas_ e os temas deste ano:
 
 - Sábado - Tarde
   - Osvaldo Santana - Advanced brain f*ck
@@ -75,6 +106,7 @@ O evento custou cerca de 22 mil reais, gastos assim:
   - Tania - Oi
   - Osvaldo - bugs no CPython
 
+Os slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## Espaço infantil
 
@@ -92,6 +124,10 @@ O evento custou cerca de 22 mil reais, gastos assim:
 
 ### Patrocinadores
 
+## O Time
+
+O Caipyra 2018 foi organizado pelo [grupy-sanca](www.grupysanca.com.br)!
+
 
 # Caipyra 2018 - Public Report
 
@@ -108,9 +144,7 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 ## Django Girls
 
-## Keynotes
-
-## Palestras
+## Talks
 
 ## Lightning Talks
 
@@ -129,6 +163,8 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 ### Support
 
 ### Sponsors
+
+## The Team
 
 
 # Slides
