@@ -48,6 +48,34 @@ O evento custou cerca de 22 mil reais, gastos assim:
 
 ## Lightning Talks
 
+- Sábado - Tarde
+  - Osvaldo Santana - Advanced brain f*ck
+  - Vinicius Mesel - Pyjobs
+  - Renne Rocha - Flask Conf
+  - Fabricio - Scutlle butt
+  - Mario gazziro - Urna eletrônica de 3ª geração
+  - Gabriel Palma - Python aplicado a biologia
+  - Lucas Vido - Garoa Hacker Club
+
+- Domingo - Manhã
+  - Silas Moura - Anaconda
+  - Jairo - shadow cliff para imagens geográficos
+  - Cuducos
+  - Orlando Saraiva - python nas faculdades
+  - Patrícia Morimoto - pyladies são Paulo e da SciELO
+
+- Domingo - Tarde
+  - Marcelo miky - café
+  - Mawqee - bibliotequinhas
+  - Murilo Viana - Watson ou paçoquinha
+  - Ericles Lima - Péricles e Agesilaus
+  - Rafael Beraldo - grupos da região
+  - Matheus - hacker space
+  - Pedro - Padrim
+  - Tania - Oi
+  - Osvaldo - bugs no CPython
+
+
 ## Espaço infantil
 
 ## Agradecimentos
@@ -131,7 +159,7 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 acho que aqui ta fora de ordem, alguem pode arrumar sso?
 
+- [Osvaldo Santana](../LightningTalks/OsvaldoSantana-BrainFck.pdf)
 - [Marcelo Miky](../LightningTalks/Miky.pdf)
 - [Rafael Beraldo](../LightningTalks/Beraldo.pdf)
-- [Osvaldo Santana](../LightningTalks/OsvaldoSantana-BrainFck.pdf)
 - [Osvaldo Santana](../LightningTalks/OsvaldoSantana-Bugs.pdf)
