@@ -87,14 +87,12 @@ Esses foram os _lightning talkistas_ e os temas deste ano:
   - Mario gazziro - Urna eletrônica de 3ª geração
   - Gabriel Palma - Python aplicado a biologia
   - Lucas Vido - Garoa Hacker Club
-
 - Domingo - Manhã
   - Silas Moura - Anaconda
   - Jairo - shadow cliff para imagens geográficos
   - Cuducos
   - Orlando Saraiva - python nas faculdades
   - Patrícia Morimoto - pyladies são Paulo e da SciELO
-
 - Domingo - Tarde
   - Marcelo miky - café
   - Mawqee - bibliotequinhas
@@ -126,7 +124,7 @@ Os slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## O Time
 
-O Caipyra 2018 foi organizado pelo [grupy-sanca](www.grupysanca.com.br)!
+O Caipyra 2018 foi organizado pelo [grupy-sanca](http://www.grupysanca.com.br)!
 
 
 # Caipyra 2018 - Public Report
