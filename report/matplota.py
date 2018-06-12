@@ -31,7 +31,7 @@ with plt.xkcd():
     plt.title("Caipyras of Caipyra")
     plt.xlabel("Year")
     plt.legend()
-    plt.savefig("peoples.png",
+    plt.savefig("imgs/peoples.png",
                 dpi = 150,
                 transparent = True)
 
@@ -40,13 +40,13 @@ with plt.xkcd():
 with plt.xkcd():
     fig, ax = plt.subplots(figsize=(6, 3), subplot_kw=dict(aspect="equal"))
 
-    data = [200, 55, 2]
+    data = [200 - 55 - 2, 55, 2]
     generos = ['Men', 'Women', 'Non-binary']
     ax.pie(data, labels = generos, autopct ='%1.1f%%')
 
     plt.title("Gender composition in Caipyra2018")
     plt.tight_layout()
-    plt.savefig("generos.png",
+    plt.savefig("imgs/generos.png",
                 dpi = 150,
                 transparent = True)
 
@@ -65,7 +65,7 @@ with plt.xkcd():
     plt.title("Consumption of Pacoquinhas and Quentao")
     plt.xlabel("Year")
     plt.legend()
-    plt.savefig("foods.png",
+    plt.savefig("imgs/foods.png",
                 dpi = 150,
                 transparent = True)
 
@@ -87,6 +87,6 @@ with plt.xkcd():
 
     plt.title("Costs of Caipyra2018")
     plt.tight_layout()
-    plt.savefig("custos.png",
+    plt.savefig("imgs/custos.png",
                 dpi = 150,
                 transparent = True)

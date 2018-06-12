@@ -20,10 +20,10 @@ O evento está na sua terceira edição e será realizado na cidade São
 Carlos - São Paulo, no Instituto de Ciências Matemáticas e Computacional na
 Universidade de São Paulo (USP). 
 
-![](peoples.png)
-![](generos.png)
-![](foods.png)
-![](custos.png)
+![](imgs/peoples.png)
+![](imgs/generos.png)
+![](imgs/foods.png)
+![](imgs/custos.png)
 
 [Trilha sonora do evento](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
 
@@ -58,10 +58,10 @@ The only Python event with
 [Quentão](https://en.wikipedia.org/wiki/Cocktails_with_cachaça#Quentão_(Hot_Stuff))
 and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
-![](peoples.png)
-![](generos.png)
-![](foods.png)
-![](custos.png)
+![](imgs/peoples.png)
+![](imgs/generos.png)
+![](imgs/foods.png)
+![](imgs/custos.png)
 
 [Event soundtrack](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
 
@@ -95,9 +95,9 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 ### Keynotes
 
 - [Prof. Dr. Rodrigo Mello](#)
-- [Prof. Dr. Paulo Matias](#)
+- [Prof. Dr. Paulo Matias](../palestras/keynote-PauloMatias.pdf)
 - [Juliana Oliveira](../palestras/keynote-JulianaOliveira.pdf)
-- [Osvaldo Santana](#)
+- [Osvaldo Santana](../palestras/keynote-OsvaldoSantana.pdf)
 
 ### Palestras
 
@@ -110,11 +110,15 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 - [Renne Rocha](../palestras/RenneRocha.pdf)
 - [Nilton Kazuyuki Ueda](#)
 - [João Rafael Martins](../palestras/JoaoRafael.pdf)
-- [Danilo Roberto Shiga](#)
+- [Danilo Roberto Shiga](../palestras/DaniloShiga.pdf)
 - [Eduardo Cuducos](../palestras/Cuducos.pdf)
 - [Vitória O. Baldan](../palestras/VitoriaBaldan.pdf)
 
 ### Lightning Talks
 
+acho que aqui ta fora de ordem, alguem pode arrumar sso?
+
 - [Marcelo Miky](../LightningTalks/Miky.pdf)
 - [Rafael Beraldo](../LightningTalks/Beraldo.pdf)
+- [Osvaldo Santana](../LightningTalks/OsvaldoSantana-BrainFck.pdf)
+- [Osvaldo Santana](../LightningTalks/OsvaldoSantana-Bugs.pdf)
