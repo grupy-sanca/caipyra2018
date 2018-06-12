@@ -7,7 +7,7 @@ O único evento de Python com Quentão e Paçoquinha!
 
 8 a 11 de Junho de 2018 — São Carlos / SP
 
-![](imgs/capyras.JPG)
+![](imgs/caipyras.JPG)
 
 O Caipyra é um evento inspirado na Python Brasil (maior evento Python da
 América Latina) e visa, sem fins lucrativos, disseminar conhecimento sobre
@@ -25,8 +25,17 @@ Universidade de São Paulo (USP).
 O evento está sempre crescendo:
 
 ![](imgs/peoples.png)
+
+É um evento inclusivo:
+
 ![](imgs/generos.png)
+
+E o segredo de sempre melhorar é esse:
+
 ![](imgs/foods.png)
+
+O evento custou cerca de 22 mil reais, gastos assim:
+
 ![](imgs/custos.png)
 
 [Trilha sonora do evento](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
