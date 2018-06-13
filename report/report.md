@@ -196,7 +196,7 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 ### Palestras
 
-- [Jadson J. M. Oliveira](#)
+- [Jadson J. M. Oliveira](../palestras/Jadson.pdf)
 - [Krissia Zawadzki](../palestras/Krissia.pdf)
 - [Beatriz Uezu](../palestras/BeatrizUezu.pdf)
 - [Caroline Dantas](#)
