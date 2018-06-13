@@ -126,6 +126,26 @@ Os slides estão disponíveis [aqui](#lightning-talks-2)
 
 O Caipyra 2018 foi organizado pelo [grupy-sanca](http://www.grupysanca.com.br)!
 
+O grupy-sanca (Grupo de Usuários Python de São Carlos) é uma comunidade que reúne pessoas interessadas em desenvolvimento de software e na linguagem Python. Prezamos pela troca de conhecimento, respeito mútuo e diversidade (tanto de opinião quanto de tecnologias).
+
+Somos um grupo da cidade de São Carlos (SP) e região. O grupo foi fundado em 28/06/2016 e desde então já tivemos:
+
+- 18+ Coding Dojos
+- 20+ PyBares
+- 16+ Cursos e workshops
+- 6 PyLestras
+- 3 Eventos
+- 2 Sprints
+
+Além disso, chegamos nos 961+ inscritos no Meetup!
+
+Para saber mais sobre os eventos organizados pelo grupy-sanca acesse:
+
+- [Site oficial](http://www.grupysanca.com.br)
+- [Facebook](https://facebook.com/grupysanca)
+- [Meetup](https://www.meetup.com/grupy-sanca)
+- [Telegram](https://t.me/grupysanca)
+
 
 # Caipyra 2018 - Public Report
 
