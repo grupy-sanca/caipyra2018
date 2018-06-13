@@ -193,7 +193,11 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 acho que aqui ta fora de ordem, alguem pode arrumar sso?
 
-- [Osvaldo Santana](../LightningTalks/OsvaldoSantana-BrainFck.pdf)
-- [Marcelo Miky](../LightningTalks/Miky.pdf)
-- [Rafael Beraldo](../LightningTalks/Beraldo.pdf)
-- [Osvaldo Santana](../LightningTalks/OsvaldoSantana-Bugs.pdf)
+- Sábado - Tarde
+  - [Osvaldo Santana](../LightningTalks/OsvaldoSantana-BrainFck.pdf)
+  - [Mario Gazziro](../LightningTalks/MarioGazziro.pdf)
+- Domingo - Manhã
+- Domingo - Tarde
+  - [Marcelo Miky](../LightningTalks/Miky.pdf)
+  - [Rafael Beraldo](../LightningTalks/Beraldo.pdf)
+  - [Osvaldo Santana](../LightningTalks/OsvaldoSantana-Bugs.pdf)
