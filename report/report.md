@@ -47,6 +47,7 @@ Nosso eventou contou com uma
 
 Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
 
+## Tutoriais
 
 ## Palestras
 
@@ -109,7 +110,9 @@ Esses foram os _lightning talkistas_ e os temas deste ano:
   - Tania - Oi
   - Osvaldo - bugs no CPython
 
-Os slides estão disponíveis [aqui](#lightning-talks-2)
+Alguns slides estão disponíveis [aqui](#lightning-talks-2)
+
+## Sprints
 
 ## Espaço infantil
 
@@ -215,8 +218,6 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 - [Vitória O. Baldan](../palestras/VitoriaBaldan.pdf)
 
 ### Lightning Talks
-
-acho que aqui ta fora de ordem, alguem pode arrumar sso?
 
 - Sábado - Tarde
   - [Osvaldo Santana](../LightningTalks/OsvaldoSantana-BrainFck.pdf)
