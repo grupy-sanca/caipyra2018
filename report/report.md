@@ -43,6 +43,11 @@ Nosso eventou contou com uma
 
 ## Django Girls
 
+[Django Girls](https://djangogirls.org/) é uma organização internacional, sem fins lucrativos, que visa apresentar mulheres ao mundo da Tecnologia da Informação, ensinando-lhes a construir seu primeiro _website_ através de tutoriais organizados por voluntárias. Esse _website_ é construído em HTML, CSS, Python e Django. _Django_ é um _framework open source_, escrito em Python, para aplicações web. O único pré-requisito para a participação é de interesse! Todo o conhecimento necessário seguir o tutorial é apresentado em seu decorrer.
+
+Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
+
+
 ## Palestras
 
 Tivemos 16 palestras nesta edição do evento, distribuídas em dois
