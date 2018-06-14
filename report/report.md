@@ -9,9 +9,9 @@ O único evento de Python com Quentão e Paçoquinha!
 
 ![](imgs/caipyras.JPG)
 
-O Caipyra é um evento inspirado na Python Brasil (maior evento Python da
-América Latina) e visa, sem fins lucrativos, disseminar conhecimento sobre
-diversas áreas da tecnologia.
+O Caipyra é um evento inspirado na [Python Brasil](https://pythonbrasil.org.br/)
+(maior evento Python da América Latina) e visa, sem fins lucrativos, disseminar
+conhecimento sobre diversas áreas da tecnologia.
 
 Como o próprio nome já diz, o Caipyra, é um encontro organizado pela
 comunidade Python do interior de São Paulo, para pessoas interessadas em
@@ -19,8 +19,9 @@ conhecer ou se aprofundar nesta linguagem, porém aberto a diversas
 tecnologias que são trazidas e abordadas pelos nossos ilustres convidados.
 
 O evento está na sua terceira edição e será realizado na cidade São
-Carlos - São Paulo, no Instituto de Ciências Matemáticas e Computacional na
-Universidade de São Paulo (USP).
+Carlos - São Paulo, no
+[Instituto de Ciências Matemáticas e de Computação](https://icmc.usp.br/) na
+[Universidade de São Paulo (USP)](https://www.usp.br/).
 
 O evento está sempre crescendo:
 
@@ -208,7 +209,7 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 - [Krissia Zawadzki](../palestras/Krissia.pdf)
 - [Beatriz Uezu](../palestras/BeatrizUezu.pdf)
 - [Caroline Dantas](#)
-- [Guilherme Vierno](#)
+- [Guilherme Vierno](../palestras/GuilhermeVierno.pdf)
 - [Geraldo Barros](../palestras/GeraldoBarros.pdf)
 - [Renne Rocha](../palestras/RenneRocha.pdf)
 - [Nilton Kazuyuki Ueda](#)
