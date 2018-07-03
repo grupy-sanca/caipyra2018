@@ -50,9 +50,9 @@ Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezo
 
 ## Tutoriais
 
-Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial **"Testes Unitários com Python"** com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção. 
+Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial _Testes Unitários com Python_ com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção.
 
-À tarde tivemos o tutorial **Desenvolvendo Aplicações baseadas em Big Data com PySpark** com Vinícius Aires Barros, que apresentou exemplos de aplicações Big Data utilizando o Apache Spark (PySpark), conceitos e exemplos de aplicações com rotinas, Map & Reduce, Filter, Order, Union, etc, e a biblioteca MLlib do Apache Spark, demonstrando exemplos de modelos de aprendizagem de máquina.
+À tarde tivemos o tutorial _Desenvolvendo Aplicações baseadas em Big Data com PySpark_ com Vinícius Aires Barros, que apresentou exemplos de aplicações Big Data utilizando o Apache Spark (PySpark), conceitos e exemplos de aplicações com rotinas, Map & Reduce, Filter, Order, Union, etc, e a biblioteca MLlib do Apache Spark, demonstrando exemplos de modelos de aprendizagem de máquina.
 
 ## Palestras
 
@@ -121,33 +121,43 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## Espaço infantil
 
-A [Grokmaker](https://grokmaker.com) montou um espaço infantil personalizado para incentivar a participação de mães e pais no evento. 
+A [Grokmaker](https://grokmaker.com) montou um espaço infantil personalizado para incentivar a participação de mães e pais no evento.
 
-A GrokTrip, unidade móvel da Grokmaker, ofereceu um espaço seguro para que os/as participantes pudessem deixar seus filhos e filhas se divertindo com atividades makers criadas por especialistas em educação, enquanto os adultos se divertem em meio a códigos e dados.
+A _GrokTrip_, unidade móvel da Grokmaker, ofereceu um espaço seguro para que os/as participantes pudessem deixar seus filhos e filhas se divertindo com atividades makers criadas por especialistas em educação, enquanto os adultos se divertem em meio a códigos e dados.
 
-A GrokTrip realizou atividades educacionais e recreativas personalizadas, full time e em todo evento. Mães e pais puderam participar juntos de um evento pela primeira vez sem ter que revezar os cuidados das crianças. E a cultura inclusiva da comunidade Python foi colocada em ação no Caipyra 2018.
+A GrokTrip realizou atividades educacionais e recreativas personalizadas, o tempo todo e em todo evento. Mães e pais puderam participar juntos de um evento pela primeira vez sem ter que revezar os cuidados das crianças. E a cultura inclusiva da comunidade Python foi colocada em ação no Caipyra 2018.
 
 ## Agradecimentos
 
-- Buffet Carmen Garcia - Coffee-Break
-
-- Magnum VIP - Gravação
-
-- Equipe do Jhonatan - Fotografia
-
-- [Grokmaker](https://grokmaker.com) - Espaço infantil
-
 ### Apoio
 
-![](imgs/apyb.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png)
-
-![](imgs/pyladies.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png)
+![](imgs/apyb.png)
+![](imgs/icmc.png)
+![](imgs/onovolab.png)
+![](imgs/pyladies.png)
+![](imgs/jhonatan_pb.png)
 
 ### Patrocinadores
 
-![](imgs/psf.png)&nbsp;&nbsp;![](imgs/olist.png)![](imgs/luiza-labs.png)
+- Platina
 
-![](imgs/GCom.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/nic.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/s2.png)
+  ![](imgs/psf.png)
+
+  ![](imgs/olist.png)
+
+  ![](imgs/luiza-labs.png)
+
+- Ouro
+
+  ![](imgs/GCom.png)
+
+- Prata
+
+  ![](imgs/nic.png)
+
+- Bronze
+
+  ![](imgs/s2.png)
 
 ## O Time
 
@@ -197,9 +207,9 @@ On June 8th we had a _Django Girls_ tutorial. We had eighteen participants, six 
 
 ## Tutorials
 
-We had two tutorials on June 8th related to the Python language. In the morning we had the tutorial **Unit Testing with Python** with Patricia Morimoto, who taught the first steps to start doing unit tests using Python, to ensure functional and easy-to-maintain software deliveries. 
+We had two tutorials on June 8th related to the Python language. In the morning we had the tutorial _Unit Testing with Python_ with Patricia Morimoto, who taught the first steps to start doing unit tests using Python, to ensure functional and easy-to-maintain software deliveries.
 
-In the afternoon we had the tutorial **Developing Applications based on Big Data with PySpark** with Vinícius Aires Barros, who presented examples of Big Data applications using Apache Spark (PySpark), concepts and examples of applications with routines, Map & Reduce, Filter, Order, Union, etc., and the MLlib library of Apache Spark, demonstrating examples of machine learning models.
+In the afternoon we had the tutorial _Developing Applications based on Big Data with PySpark_ with Vinícius Aires Barros, who presented examples of Big Data applications using Apache Spark (PySpark), concepts and examples of applications with routines, Map & Reduce, Filter, Order, Union, etc., and the MLlib library of Apache Spark, demonstrating examples of machine learning models.
 
 ## Talks
 
@@ -228,9 +238,9 @@ Slides are available [here](#slides).
 
 ## Lightning Talks
 
-**Lightning talk** is a very short talk, at most 5 minutes. Submissions are made on time, and _anyone_ can submit! No restrictions about the subject. When the timer indicates 5 minutes, the speaker is applauded and the next one enters: D
+_Lightning talk_ is a very short talk, at most 5 minutes. Submissions are made on time, and _anyone_ can submit! No restrictions about the subject. When the timer indicates 5 minutes, the speaker is applauded and the next one enters: D
 
-These were the **lightning talkers** and the themes of this year:
+These were the _lightning talkers_ and the themes of this year:
 
 - Saturday - Afternoon
   - Osvaldo Santana - Advanced brain f*ck
@@ -264,31 +274,42 @@ Some slides available [here](#lightning-talks-2)
 
 [Grokmaker] (https://grokmaker.com) set up a personalized children's space to encourage parents to participate in the event.
 
-GrokTrip, Grokmaker's mobile unit, provided a safe space for participants to leave their sons and daughters entertaining with creative activities created by education experts, while adults have fun with codes and data.
+_GrokTrip_, Grokmaker's mobile unit, provided a safe space for participants to leave their sons and daughters entertaining with creative activities created by education experts, while adults have fun with codes and data.
 
 GrokTrip has made personalized full time educational and recreational activities in the whole event. Mothers and fathers were able to attend an event together for the first time without having to take care of the children. And the inclusive culture of the Python community was put into action at Caipyra 2018.
 
 ## Acknowledgments
 
-- Buffet Carmen Garcia - Coffee-Break
-
-- Magnum VIP - Filming
-
-- Equipe do Jhonatan - Photography
-
-- [Grokmaker](https://grokmaker.com) - Kids space
-
 ### Support
 
-![](imgs/apyb.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png)
-
-![](imgs/pyladies.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png)
+![](imgs/apyb.png)
+![](imgs/icmc.png)
+![](imgs/onovolab.png)
+![](imgs/pyladies.png)
+![](imgs/jhonatan_pb.png)
 
 ### Sponsors
 
-![](imgs/psf.png)&nbsp;&nbsp;![](imgs/olist.png)![](imgs/luiza-labs.png)
+- Platinum
 
-![](imgs/GCom.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/nic.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/s2.png)
+  ![](imgs/psf.png)
+
+  ![](imgs/olist.png)
+
+  ![](imgs/luiza-labs.png)
+
+- Gold
+
+  ![](imgs/GCom.png)
+
+- Silver
+
+  ![](imgs/nic.png)
+
+- Bronze
+
+  ![](imgs/s2.png)
+
 
 ## The Team
 
