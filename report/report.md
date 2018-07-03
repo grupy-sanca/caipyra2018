@@ -137,7 +137,7 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ### Patrocinadores
 
-![](imgs/psf.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/olist.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/luiza-labs.png)
+![](imgs/psf.png)&nbsp;&nbsp;![](imgs/olist.png)&nbsp;&nbsp;![](imgs/luiza-labs.png)
 
 
 ![](imgs/GCom.png)
