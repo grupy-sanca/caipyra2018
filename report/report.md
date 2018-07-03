@@ -130,35 +130,15 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ### Apoio
 
-<p align="center">
+![](imgs/apyb.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png?style=centerme)
 
-![](imgs/apyb.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png)
-
-
-
-![](imgs/pyladies.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png)
-
-</p>
+![](imgs/pyladies.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png?style=centerme)
 
 ### Patrocinadores
 
-<p align="center">
+![](imgs/psf.png?style=centerme)&nbsp;![](imgs/olist.png?style=centerme)&nbsp;![](imgs/luiza-labs.png?style=centerme)
 
-![](imgs/psf.png)&nbsp;![](imgs/olist.png)&nbsp;![](imgs/luiza-labs.png)
-
-
-
-![](imgs/GCom.png)
-
-
-
-![](imgs/nic.png)
-
-
-
-![](imgs/s2.png)
-
-</p>
+![](imgs/GCom.png?style=centerme)&nbsp;![](imgs/nic.png?style=centerme)&nbsp;![](imgs/s2.png?style=centerme)
 
 ## O Time
 
