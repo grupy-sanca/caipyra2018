@@ -131,17 +131,17 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 ### Apoio
 
 ![](imgs/apyb.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png)
-
+[SPACE]
 ![](imgs/pyladies.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png)
 
 ### Patrocinadores
 
 ![](imgs/psf.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/olist.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/luiza-labs.png)
-
+[SPACE]
 ![](imgs/GCom.png)
-
+[SPACE]
 ![](imgs/nic.png)
-
+[SPACE]
 ![](imgs/s2.png)
 
 ## O Time
