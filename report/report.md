@@ -136,9 +136,9 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ### Patrocinadores
 
-![](imgs/psf.png?style=centerme)&nbsp;![](imgs/olist.png?style=centerme)&nbsp;![](imgs/luiza-labs.png?style=centerme)
+![](imgs/psf.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/olist.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/luiza-labs.png?style=centerme)
 
-![](imgs/GCom.png?style=centerme)&nbsp;![](imgs/nic.png?style=centerme)&nbsp;![](imgs/s2.png?style=centerme)
+![](imgs/GCom.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/nic.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/s2.png?style=centerme)
 
 ## O Time
 
