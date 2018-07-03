@@ -49,7 +49,7 @@ Nosso eventou contou com uma
 Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
 
 ## Tutoriais
-Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial *Testes Unitários com Python* com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção. 
+Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial *"Testes Unitários com Python"* com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção. À tarde tivemos o tutorial *"Desenvolvendo Aplicações baseadas em Big Data com PySpark"* com Vinícius Aires Barros, que apresentou exemplos de aplicações Big Data utilizando o Apache Spark (PySpark), conceitos e exemplos de aplicações com rotinas, Map & Reduce, Filter, Order, Union, etc, e a biblioteca MLlib do Apache Spark, demonstrando exemplos de modelos de aprendizagem de máquina.
 
 ## Palestras
 
@@ -59,7 +59,7 @@ auditórios durante dois dias:
 - Sábado
   - Jadson Oliveira - Indicadores Inteligentes para Detecção de Epidemias de Dengue através do monitoramento de Redes Sociais em Tempo Real
   - Krissia Zawadzki - Hey físicas e físicos! Vocês têm um minutinho para ouvir a Pylavra da serpente quântica?
-  - Prof. Dr. Rodrigo Fernandes de Mello
+  - Prof. Dr. Rodrigo Fernandes de Mello - Teoria do Aprendizado Estatístico: Como garantir que Algoritmos de Aprendizado de Máquina funcionem?
   - Beatriz Uezu - Visualizando query SQL a partir do ORM Django
   - Caroline Dantas - Computação Neuromórfica - O que é isso??? Como se usa Python Nisso??
   - Guilherme Vierno - Microservices em Python: desafios e soluções
@@ -102,7 +102,7 @@ Esses foram os _lightning talkistas_ e os temas deste ano:
   - Orlando Saraiva - Python nas faculdades
   - Patrícia Morimoto - Pyladies são Paulo e da SciELO
 - Domingo - Tarde
-  - Marcelo Miky - Café
+  - Marcelo Miky - Introdução ao mundo do café (ou “Tudo” o que você quis saber sobre café mas tinha medo de perguntar).
   - Mawqee - bibliotequinhas
   - Murilo Viana - Watson ou paçoquinha
   - Ericles Lima - Péricles e Agesilaus
@@ -118,6 +118,12 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## Espaço infantil
 
+A [Grokmaker](https://grokmaker.com) montou um espaço infantil personalizado para incentivar a participação de mães e pais no evento. 
+
+A GrokTrip, unidade móvel da Grokmaker, ofereceu um espaço seguro para que os/as participantes pudessem deixar seus filhos e filhas se divertindo com atividades makers criadas por especialistas em educação, enquanto os adultos se divertem em meio a códigos e dados.
+
+A GrokTrip realizou atividades educacionais e recreativas personalizadas, full time e em todo evento. Mães e pais puderam participar juntos de um evento pela primeira vez sem ter que revezar os cuidados das crianças. E a cultura inclusiva da comunidade Python foi colocada em ação no Caipyra 2018.
+
 ## Agradecimentos
 
 - Buffet Carmen Garcia - Coffee-Break
@@ -126,19 +132,19 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 - Equipe do Jhonatan - Fotografia
 
-- Grokmaker - Espaço infantil
+- [Grokmaker](https://grokmaker.com) - Espaço infantil
 
 ### Apoio
 
-![](imgs/apyb.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png?style=centerme)
+![](imgs/apyb.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png)
 
-![](imgs/pyladies.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png?style=centerme)
+![](imgs/pyladies.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png)
 
 ### Patrocinadores
 
-![](imgs/psf.png?style=centerme)&nbsp;&nbsp;![](imgs/olist.png?style=centerme)![](imgs/luiza-labs.png?style=centerme)
+![](imgs/psf.png)&nbsp;&nbsp;![](imgs/olist.png)![](imgs/luiza-labs.png)
 
-![](imgs/GCom.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/nic.png?style=centerme)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/s2.png?style=centerme)
+![](imgs/GCom.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/nic.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/s2.png)
 
 ## O Time
 
@@ -182,11 +188,80 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 ## Django Girls
 
+[Django Girls](https://djangogirls.org/) is an international nonprofit organization that aims to introduce women to the world of IT. They can learn how to build their first _website_ through tutorials organized by volunteers. This _website_ is built in HTML, CSS, Python and Django. _Django_ is an open source framework, written in Python, for web applications. The only prerequisite for participation is the person is interested! All the knowledge necessary to follow the tutorial is presented in the course.
+
+On June 8th we had a _Django Girls_ tutorial. We had eighteen participants, six coaches, and six hours of course. The participants were, in general, university students of the most varied courses, academic degrees and levels of programming knowledge. The friendly and relaxed atmosphere allowed participants to feel at ease in expressing their doubts and thus progressing quickly. Many woman were programming for the first time in their life!! They seemed very enthusiastic and satisfied with their results and their knowledge.
+
+## Tutorials
+
+We had two tutorials on June 8th related to the Python language. In the morning we had the tutorial *Unit Testing with Python* with Patricia Morimoto, who taught the first steps to start doing unit tests using Python, to ensure functional and easy-to-maintain software deliveries. In the afternoon we had the tutorial *"Developing Applications based on Big Data with PySpark"* with Vinícius Aires Barros, who presented examples of Big Data applications using Apache Spark (PySpark), concepts and examples of applications with routines, Map & Reduce, Filter, Order, Union, etc., and the MLlib library of Apache Spark, demonstrating examples of machine learning models.
+
 ## Talks
+
+We had 16 talks in this edition, distributed in two auditoriums for two days:
+
+- Saturday
+  - Jadson Oliveira - Intelligent Indicators for Detection of Dengue fever Epidemics by Monitoring Social Networks in Real Time
+  - Krissia Zawadzki - Hey physicists! Do you have a minute to listen to the word of the quantum serpent?
+  - Prof. Dr. Rodrigo Fernandes de Mello - Statistical Learning Theory: How to Ensure Machine Learning Algorithms learn?
+  - Beatriz Uezu - Visualizing query SQL from ORM Django
+  - Caroline Dantas - Neuromorphic Computing - What is it??? How do I use Python in this?
+  - Guilherme Vierno - Microservices in Python: challenges and solutions
+  - Geraldo Barros - Internet Health Report: Five key topics will determine the future of Internet Health
+  - Prof. Dr. Paulo Matias - Hacking a Brazilian electronics urn with Python
+- Sunday
+  - Juliana Oliveira - Parallel Processing for Pythonists
+  - Renne Rocha - Extracting data from internet using Scrapy
+  - Nilton Kazuyuki Ueda - [BI & Analytics] Data Visualization in Tableau with TabPy
+  - João Rafael Martins - Introduction to Machine Learning and NLP
+  - Danilo Roberto Shiga - Exceptions: and because they are not just for errors
+  - Eduardo Cuducos - Civic technology: what matters are the questions!
+  - Vitoria Ongaratto Baldan - Python in Astronomy
+  - Osvaldo Santana - How a Remote Development Team Works
+
+Slides are available [here](#slides).
 
 ## Lightning Talks
 
+_Lightning talk_ is a very short talk, at most 5 minutes. Submissions are made on time, and _anyone_ can submit! No restrictions about the subject. When the timer indicates 5 minutes, the speaker is applauded and the next one enters: D
+
+These were the _lightning talkers_ and the themes of this year:
+
+- Saturday - Afternoon
+  - Osvaldo Santana - Advanced brain f*ck
+  - Vinicius Mesel - Pyjobs
+  - Renne Rocha - Flask Conf
+  - Fabricio - Scutlle butt
+  - Mario gazziro - 3rd Generation Electronic Urn
+  - Gabriel Palma - Python applied to biology
+  - Lucas Vido - Garoa Hacker Club
+- Sunday Morning
+  - Silas Moura - Anaconda
+  - Jairo - Shadow cliff for geographic images
+  - Cuducos
+  - Orlando Saraiva - Python in Colleges
+  - Patrícia Morimoto - Pyladies São Paulo and SciELO
+- Sunday - Afternoon
+  - Marcelo Miky - Introduction to the world of coffee (or "Everything" you wanted to know about coffee but were afraid to ask).
+  - Mawqee - Little libraries
+  - Murilo Viana - Watson or paçoquinha
+  - Ericles Lima - Pericles and Agesilaus
+  - Rafael Beraldo - Local groups
+  - Matheus - Hacker Space
+  - Peter - Padrim
+  - Tania - Hi
+  - Osvaldo - bugs in CPython
+
+Some slides available [here](#lightning-talks-2)
+
+
 ## The little Caipyras :)
+
+[Grokmaker] (https://grokmaker.com) set up a personalized children's space to encourage parents to participate in the event.
+
+GrokTrip, Grokmaker's mobile unit, provided a safe space for participants to leave their sons and daughters entertaining with creative activities created by education experts, while adults have fun with codes and data.
+
+GrokTrip has made personalized full time educational and recreational activities in the whole event. Mothers and fathers were able to attend an event together for the first time without having to take care of the children. And the inclusive culture of the Python community was put into action at Caipyra 2018.
 
 ## Acknowledgments
 
@@ -196,14 +271,45 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 - Equipe do Jhonatan - Photography
 
-- Grokmaker - Kids space
+- [Grokmaker](https://grokmaker.com) - Kids space
 
 ### Support
 
+![](imgs/apyb.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/icmc.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/onovolab.png)
+
+![](imgs/pyladies.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/jhonatan_pb.png)
+
 ### Sponsors
+
+![](imgs/psf.png)&nbsp;&nbsp;![](imgs/olist.png)![](imgs/luiza-labs.png)
+
+![](imgs/GCom.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/nic.png)&nbsp;&nbsp;&nbsp;&nbsp;![](imgs/s2.png)
 
 ## The Team
 
+![](imgs/grupy-sanca.png)
+
+The Caipyra 2018 was organized by [grupy-sanca](http://www.grupysanca.com.br)!
+
+Grupy-sanca (Python User Group from São Carlos) is a community that brings together people interested in software development and Python language. We value the exchange of knowledge, mutual respect and diversity (both opinion and technology).
+
+We are a group from the city of São Carlos (SP) and region. The group was founded on 06/28/2016 and since then we have had:
+
+- 18+ Coding Dojos
+- 20+ "PyPub"
+- 16+ Courses and workshops
+- 6 "PyTalks"
+- 3 Events
+- 2 Sprints
+
+Plus, we've got 961+ members in the Meetup!
+
+To know more about the events organized by grupy-sanca:
+
+- [Official website](http://www.grupysanca.com.br)
+- [Facebook](https://facebook.com/grupysanca)
+- [Meetup](https://www.meetup.com/grupy-sanca)
+- [Telegram](https://t.me/grupysanca)
 
 # Slides
 
