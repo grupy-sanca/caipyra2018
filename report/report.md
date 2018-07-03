@@ -97,17 +97,17 @@ Esses foram os _lightning talkistas_ e os temas deste ano:
   - Lucas Vido - Garoa Hacker Club
 - Domingo - Manhã
   - Silas Moura - Anaconda
-  - Jairo - shadow cliff para imagens geográficos
+  - Jairo - Shadow cliff para imagens geográficos
   - Cuducos
-  - Orlando Saraiva - python nas faculdades
-  - Patrícia Morimoto - pyladies são Paulo e da SciELO
+  - Orlando Saraiva - Python nas faculdades
+  - Patrícia Morimoto - Pyladies são Paulo e da SciELO
 - Domingo - Tarde
-  - Marcelo miky - café
+  - Marcelo Miky - Café
   - Mawqee - bibliotequinhas
   - Murilo Viana - Watson ou paçoquinha
   - Ericles Lima - Péricles e Agesilaus
-  - Rafael Beraldo - grupos da região
-  - Matheus - hacker space
+  - Rafael Beraldo - Grupos da região
+  - Matheus - Hacker Space
   - Pedro - Padrim
   - Tania - Oi
   - Osvaldo - bugs no CPython
@@ -130,23 +130,13 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ### Apoio
 
-![](imgs/apyb.png)
+![](imgs/apyb.png)  ![](imgs/icmc.png)  ![](imgs/onovolab.png)
 
-![](imgs/icmc.png)
-
-![](imgs/onovolab.png)
-
-![](imgs/pyladies.png)
-
-![](imgs/jhonatan_pb.png)
+![](imgs/pyladies.png)  ![](imgs/jhonatan_pb.png)
 
 ### Patrocinadores
 
-![](imgs/psf.png)
-
-![](imgs/olist.png)
-
-![](imgs/luiza-labs.png)
+![](imgs/psf.png)  ![](imgs/olist.png)  ![](imgs/luiza-labs.png)
 
 ![](imgs/GCom.png)
 
