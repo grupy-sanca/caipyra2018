@@ -49,6 +49,7 @@ Nosso eventou contou com uma
 Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
 
 ## Tutoriais
+Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial *Testes Unitários com Python* com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção. 
 
 ## Palestras
 
@@ -119,7 +120,7 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## Agradecimentos
 
-- Buffet Carmen Garcia - Coffe-Break
+- Buffet Carmen Garcia - Coffee-Break
 
 - Magnum VIP - Gravação
 
@@ -129,9 +130,33 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ### Apoio
 
+![](imgs/apyb.png)
+
+![](imgs/icmc.png)
+
+![](imgs/onovolab.png)
+
+![](imgs/pyladies.png)
+
+![](imgs/jhonatan_pb.png)
+
 ### Patrocinadores
 
+![](imgs/psf.png)
+
+![](imgs/olist.png)
+
+![](imgs/luiza-labs.png)
+
+![](imgs/GCom.png)
+
+![](imgs/nic.png)
+
+![](imgs/s2.png)
+
 ## O Time
+
+![](imgs/grupy-sanca.png)
 
 O Caipyra 2018 foi organizado pelo [grupy-sanca](http://www.grupysanca.com.br)!
 
@@ -179,7 +204,7 @@ and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
 ## Acknowledgments
 
-- Buffet Carmen Garcia - Coffe-Break
+- Buffet Carmen Garcia - Coffee-Break
 
 - Magnum VIP - Filming
 
