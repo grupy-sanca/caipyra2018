@@ -49,7 +49,10 @@ Nosso eventou contou com uma
 Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
 
 ## Tutoriais
-Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial *"Testes Unitários com Python"* com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção. À tarde tivemos o tutorial *"Desenvolvendo Aplicações baseadas em Big Data com PySpark"* com Vinícius Aires Barros, que apresentou exemplos de aplicações Big Data utilizando o Apache Spark (PySpark), conceitos e exemplos de aplicações com rotinas, Map & Reduce, Filter, Order, Union, etc, e a biblioteca MLlib do Apache Spark, demonstrando exemplos de modelos de aprendizagem de máquina.
+
+Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial **"Testes Unitários com Python"** com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção. 
+
+À tarde tivemos o tutorial **"Desenvolvendo Aplicações baseadas em Big Data com PySpark"** com Vinícius Aires Barros, que apresentou exemplos de aplicações Big Data utilizando o Apache Spark (PySpark), conceitos e exemplos de aplicações com rotinas, Map & Reduce, Filter, Order, Union, etc, e a biblioteca MLlib do Apache Spark, demonstrando exemplos de modelos de aprendizagem de máquina.
 
 ## Palestras
 
@@ -194,7 +197,9 @@ On June 8th we had a _Django Girls_ tutorial. We had eighteen participants, six 
 
 ## Tutorials
 
-We had two tutorials on June 8th related to the Python language. In the morning we had the tutorial *Unit Testing with Python* with Patricia Morimoto, who taught the first steps to start doing unit tests using Python, to ensure functional and easy-to-maintain software deliveries. In the afternoon we had the tutorial *"Developing Applications based on Big Data with PySpark"* with Vinícius Aires Barros, who presented examples of Big Data applications using Apache Spark (PySpark), concepts and examples of applications with routines, Map & Reduce, Filter, Order, Union, etc., and the MLlib library of Apache Spark, demonstrating examples of machine learning models.
+We had two tutorials on June 8th related to the Python language. In the morning we had the tutorial **Unit Testing with Python** with Patricia Morimoto, who taught the first steps to start doing unit tests using Python, to ensure functional and easy-to-maintain software deliveries. 
+
+In the afternoon we had the tutorial **"Developing Applications based on Big Data with PySpark"** with Vinícius Aires Barros, who presented examples of Big Data applications using Apache Spark (PySpark), concepts and examples of applications with routines, Map & Reduce, Filter, Order, Union, etc., and the MLlib library of Apache Spark, demonstrating examples of machine learning models.
 
 ## Talks
 
@@ -223,9 +228,9 @@ Slides are available [here](#slides).
 
 ## Lightning Talks
 
-_Lightning talk_ is a very short talk, at most 5 minutes. Submissions are made on time, and _anyone_ can submit! No restrictions about the subject. When the timer indicates 5 minutes, the speaker is applauded and the next one enters: D
+**Lightning talk** is a very short talk, at most 5 minutes. Submissions are made on time, and _anyone_ can submit! No restrictions about the subject. When the timer indicates 5 minutes, the speaker is applauded and the next one enters: D
 
-These were the _lightning talkers_ and the themes of this year:
+These were the **lightning talkers** and the themes of this year:
 
 - Saturday - Afternoon
   - Osvaldo Santana - Advanced brain f*ck
