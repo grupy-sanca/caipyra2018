@@ -119,6 +119,31 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## Sprints
 
+Os sprints de desenvolvimento são uma parte chave de grande parte dos eventos
+de Python ao redor do mundo. Durante os sprints os participantes tem a chance
+de contribuir para projetos open-source em dias intensos de aprendizagem.
+Novatos podem trabalhar com pessoas mais experientes proporcionando um ótimo
+ambiente de troca de experiências para todos.
+
+O sprint é o momento para testar, corrigir bugs, adicionar novas features e
+melhorar a documentação de projetos que você utiliza e gostaria de
+contribuir. O sprint também é uma ótima oportunidade para fazer amigos,
+networking e criar relações que se extenderão até após a conferência.
+
+Na segunda feira, 11 de Junho, os corajosos que sobreveviram aos três dias
+anteriores do evento se reuniram no [ONOVOLAB](http://www.onovolab.com) para
+contribuir com:
+
+* [Certificator](https://github.com/lamenezes/certificator)
+
+  Um gerador de certificados feito em Python. Assim pudemos gerar todos os
+  certificados do Caipyra!
+
+* Consumo de paçocas
+
+  Tiverem a árdua tarefa de consumir nosso estoque de paçoquinhas...
+
+
 ## Espaço infantil
 
 A [Grokmaker](https://grokmaker.com) montou um espaço infantil personalizado para incentivar a participação de mães e pais no evento.
@@ -131,11 +156,13 @@ A GrokTrip realizou atividades educacionais e recreativas personalizadas, o temp
 
 ### Apoio
 
-![](imgs/apyb.png)
-![](imgs/icmc.png)
-![](imgs/onovolab.png)
-![](imgs/pyladies.png)
-![](imgs/jhonatan_pb.png)
+Apoio                      |
+---------------------------|-
+![](imgs/apyb.png)         |
+![](imgs/icmc.png)         |
+![](imgs/onovolab.png)     |
+![](imgs/pyladies.png)     |
+![](imgs/jhonatan_pb.png)  |
 
 ### Patrocinadores
 
@@ -191,6 +218,8 @@ Para saber mais sobre os eventos organizados pelo grupy-sanca acesse:
 The only Python event with
 [Quentão](https://en.wikipedia.org/wiki/Cocktails_with_cachaça#Quentão_(Hot_Stuff))
 and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
+
+Falta um textinho aqui
 
 ![](imgs/peoples.png)
 ![](imgs/generos.png)
@@ -269,10 +298,13 @@ These were the _lightning talkers_ and the themes of this year:
 
 Some slides available [here](#lightning-talks-2)
 
+## Sprints
+
+See above
 
 ## The little Caipyras :)
 
-[Grokmaker] (https://grokmaker.com) set up a personalized children's space to encourage parents to participate in the event.
+[Grokmaker](https://grokmaker.com) set up a personalized children's space to encourage parents to participate in the event.
 
 _GrokTrip_, Grokmaker's mobile unit, provided a safe space for participants to leave their sons and daughters entertaining with creative activities created by education experts, while adults have fun with codes and data.
 
