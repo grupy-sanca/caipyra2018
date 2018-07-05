@@ -156,22 +156,18 @@ A GrokTrip realizou atividades educacionais e recreativas personalizadas, o temp
 
 ### Apoio
 
-Apoio                      |
----------------------------|-
-![](imgs/apyb.png)         |
-![](imgs/icmc.png)         |
-![](imgs/onovolab.png)     |
-![](imgs/pyladies.png)     |
-![](imgs/jhonatan_pb.png)  |
+![](imgs/apyb.png)
+![](imgs/icmc.png)
+![](imgs/onovolab.png)
+![](imgs/pyladies.png)
+![](imgs/jhonatan_pb.png)
 
 ### Patrocinadores
 
 - Platina
 
   ![](imgs/psf.png)
-
   ![](imgs/olist.png)
-
   ![](imgs/luiza-labs.png)
 
 - Ouro
@@ -219,14 +215,39 @@ The only Python event with
 [Quentão](https://en.wikipedia.org/wiki/Cocktails_with_cachaça#Quentão_(Hot_Stuff))
 and [Paçoquinha](https://en.wikipedia.org/wiki/Paçoca)!
 
-Falta um textinho aqui
+8 to 11, July, 2018 - [São Carlos - Brazil](https://goo.gl/maps/pkxX21WZXEJ2)
+
+Caipyra is an event inspired by [Python Brasil](https://pythonbrasil.org.br/)
+(the biggest Python event in Latin America) and aims, without profit, to
+disseminate knowledge in different areas of technology.
+
+Caipyra is a meeting organized by the Python community in the interior of São Paulo
+state, for people interested in learning or deepening their skills in this language,
+but also open to various technologies that are brought and approached by our
+distinguished guests.
+
+This was the third edition of the event and it was held at São
+Carlos - São Paulo - Brazil, at
+[Institute of Mathematical and Computer Sciences](https://icmc.usp.br/) of
+[University of São Paulo (USP)](https://www.usp.br/english/?lang=en).
+
+The event is always growing:
 
 ![](imgs/peoples.png)
+
+It's an inclusive event:
+
 ![](imgs/generos.png)
+
+And this is our secret to always improve:
+
 ![](imgs/foods.png)
+
+The event costed about 22 thousand Brazilian moneys, spent this way:
+
 ![](imgs/custos.png)
 
-[Event soundtrack](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
+Our event had an [awesome soundtrack](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)!
 
 ## Django Girls
 
@@ -325,9 +346,7 @@ GrokTrip has made personalized full time educational and recreational activities
 - Platinum
 
   ![](imgs/psf.png)
-
   ![](imgs/olist.png)
-
   ![](imgs/luiza-labs.png)
 
 - Gold
