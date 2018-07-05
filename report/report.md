@@ -158,6 +158,7 @@ A GrokTrip realizou atividades educacionais e recreativas personalizadas, o temp
 
 ![](imgs/apyb.png)
 ![](imgs/icmc.png)
+
 ![](imgs/onovolab.png)
 ![](imgs/pyladies.png)
 ![](imgs/jhonatan_pb.png)
@@ -337,6 +338,7 @@ GrokTrip has made personalized full time educational and recreational activities
 
 ![](imgs/apyb.png)
 ![](imgs/icmc.png)
+
 ![](imgs/onovolab.png)
 ![](imgs/pyladies.png)
 ![](imgs/jhonatan_pb.png)
@@ -397,7 +399,7 @@ To know more about the events organized by grupy-sanca:
 - [Juliana Oliveira](../palestras/keynote-JulianaOliveira.pdf)
 - [Osvaldo Santana](../palestras/keynote-OsvaldoSantana.pdf)
 
-### Palestras
+### Palestras / Talks
 
 - [Jadson J. M. Oliveira](../palestras/Jadson.pdf)
 - [Krissia Zawadzki](../palestras/Krissia.pdf)
