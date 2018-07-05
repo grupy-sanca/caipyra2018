@@ -119,16 +119,16 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## Sprints
 
-Os sprints de desenvolvimento são uma parte chave de grande parte dos eventos
-de Python ao redor do mundo. Durante os sprints os participantes tem a chance
-de contribuir para projetos open-source em dias intensos de aprendizagem.
+Os *sprints* de desenvolvimento são uma parte chave de grande parte dos eventos
+de Python ao redor do mundo. Durante os *sprints* os participantes tem a chance
+de contribuir para projetos *open-source* em dias intensos de aprendizagem.
 Novatos podem trabalhar com pessoas mais experientes proporcionando um ótimo
 ambiente de troca de experiências para todos.
 
-O sprint é o momento para testar, corrigir bugs, adicionar novas features e
+O *sprint* é o momento para testar, corrigir *bugs*, adicionar novas *features* e
 melhorar a documentação de projetos que você utiliza e gostaria de
-contribuir. O sprint também é uma ótima oportunidade para fazer amigos,
-networking e criar relações que se extenderão até após a conferência.
+contribuir. O *sprint* também é uma ótima oportunidade para fazer amigos,
+*networking* e criar relações que se extenderão até após a conferência.
 
 Na segunda feira, 11 de Junho, os corajosos que sobreveviram aos três dias
 anteriores do evento se reuniram no [ONOVOLAB](http://www.onovolab.com) para
@@ -141,7 +141,7 @@ contribuir com:
 
 * Consumo de paçocas
 
-  Tiverem a árdua tarefa de consumir nosso estoque de paçoquinhas...
+  Tiveram a árdua tarefa de consumir nosso estoque de paçoquinhas...
 
 
 ## Espaço infantil
