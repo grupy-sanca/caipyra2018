@@ -322,7 +322,22 @@ Some slides available [here](#lightning-talks-2)
 
 ## Sprints
 
-See above
+Development sprints are a key part of most of Python events around the world. 
+During the **sprints** the participants can contribute to open-source projects in intensive days of learning.
+Newbies can work with more experienced people, providing a great environment of exchanges of experiences for everybody.
+
+Sprint is the moment to test, fix bugs, add new features and improve the documentation of projects you would like to contribute. Sprint is also a great opportunity to make friends, networking and create relationships that will extend beyond the conference.
+
+On Monday, June 11, the brave ones who survived the three days of the event gathered at [ONOVOLAB] (http://www.onovolab.com) to
+contribute with:
+
+* [Certificator] (https://github.com/lamenezes/certificator)
+
+  A certificate generator made in Python. Thus we were able to generate all Caipyra certificates!
+
+* Population consumption
+
+  They had the arduous task of consuming our stock of paçoquinhas... 
 
 ## The little Caipyras :)
 
