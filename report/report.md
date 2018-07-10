@@ -44,6 +44,8 @@ Nosso eventou contou com uma
 
 ## Django Girls
 
+![](imgs/DG.jpg)
+
 [Django Girls](https://djangogirls.org/) é uma organização internacional, sem fins lucrativos, que visa apresentar mulheres ao mundo da Tecnologia da Informação, ensinando-lhes a construir seu primeiro _website_ através de tutoriais organizados por voluntárias. Esse _website_ é construído em HTML, CSS, Python e Django. _Django_ é um _framework open source_, escrito em Python, para aplicações web. O único pré-requisito para a participação é de interesse! Todo o conhecimento necessário seguir o tutorial é apresentado em seu decorrer.
 
 Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
@@ -119,6 +121,8 @@ Alguns slides estão disponíveis [aqui](#lightning-talks-2)
 
 ## Sprints
 
+![](imgs/sprint.jpg)
+
 Os *sprints* de desenvolvimento são uma parte chave de grande parte dos eventos
 de Python ao redor do mundo. Durante os *sprints* os participantes tem a chance
 de contribuir para projetos *open-source* em dias intensos de aprendizagem.
@@ -145,6 +149,8 @@ contribuir com:
 
 
 ## Espaço infantil
+
+![](imgs/creanças.png)
 
 A [Grokmaker](https://grokmaker.com) montou um espaço infantil personalizado para incentivar a participação de mães e pais no evento.
 
@@ -252,6 +258,8 @@ Our event had an [awesome soundtrack](https://www.youtube.com/watch?v=EiXFGW75D-
 
 ## Django Girls
 
+![](imgs/DG.jpg)
+
 [Django Girls](https://djangogirls.org/) is an international nonprofit organization that aims to introduce women to the world of IT. They can learn how to build their first _website_ through tutorials organized by volunteers. This _website_ is built in HTML, CSS, Python and Django. _Django_ is an open source framework, written in Python, for web applications. The only prerequisite for participation is the person is interested! All the knowledge necessary to follow the tutorial is presented in the course.
 
 On June 8th we had a _Django Girls_ tutorial. We had eighteen participants, six coaches, and six hours of course. The participants were, in general, university students of the most varied courses, academic degrees and levels of programming knowledge. The friendly and relaxed atmosphere allowed participants to feel at ease in expressing their doubts and thus progressing quickly. Many woman were programming for the first time in their life!! They seemed very enthusiastic and satisfied with their results and their knowledge.
@@ -322,9 +330,13 @@ Some slides available [here](#lightning-talks-2)
 
 ## Sprints
 
+![](imgs/sprint.jpg)
+
 See above
 
 ## The little Caipyras :)
+
+![](imgs/creanças.png)
 
 [Grokmaker](https://grokmaker.com) set up a personalized children's space to encourage parents to participate in the event.
 
