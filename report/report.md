@@ -22,6 +22,9 @@ A terceira edição do evento foi realizada na cidade São Carlos - São Paulo, 
 [Instituto de Ciências Matemáticas e de Computação](https://icmc.usp.br/) na
 [Universidade de São Paulo (USP)](https://www.usp.br/).
 
+Confira nosso [álbum de fotos](https://www.facebook.com/pg/grupysanca/photos/?tab=album&album_id=999307070247660)
+no Facebook!
+
 O evento está sempre crescendo:
 
 ![](imgs/peoples.png)
@@ -236,6 +239,9 @@ This was the third edition of the event and it was held at São
 Carlos - São Paulo - Brazil, at
 [Institute of Mathematical and Computer Sciences](https://icmc.usp.br/) of
 [University of São Paulo (USP)](https://www.usp.br/english/?lang=en).
+
+Check our [photos](https://www.facebook.com/pg/grupysanca/photos/?tab=album&album_id=999307070247660)
+nn Facebook!
 
 The event is always growing:
 
