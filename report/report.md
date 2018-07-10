@@ -18,8 +18,7 @@ comunidade Python do interior de São Paulo, para pessoas interessadas em
 conhecer ou se aprofundar nesta linguagem, porém aberto a diversas
 tecnologias que são trazidas e abordadas pelos nossos ilustres convidados.
 
-O evento está na sua terceira edição e será realizado na cidade São
-Carlos - São Paulo, no
+A terceira edição do evento foi realizada na cidade São Carlos - São Paulo, no
 [Instituto de Ciências Matemáticas e de Computação](https://icmc.usp.br/) na
 [Universidade de São Paulo (USP)](https://www.usp.br/).
 
@@ -54,7 +53,7 @@ Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezo
 
 Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial _Testes Unitários com Python_ com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção.
 
-À tarde tivemos o tutorial _Desenvolvendo Aplicações baseadas em Big Data com PySpark_ com Vinícius Aires Barros, que apresentou exemplos de aplicações Big Data utilizando o Apache Spark (PySpark), conceitos e exemplos de aplicações com rotinas, Map & Reduce, Filter, Order, Union, etc, e a biblioteca MLlib do Apache Spark, demonstrando exemplos de modelos de aprendizagem de máquina.
+À tarde tivemos o tutorial _Desenvolvendo Aplicações baseadas em Big Data com PySpark_ com Vinícius Aires Barros, que apresentou exemplos de aplicações *Big Data* utilizando o *Apache Spark (PySpark)*, conceitos e exemplos de aplicações com rotinas, *Map & Reduce*, *Filter*, *Order*, *Union*, etc, e a biblioteca *MLlib* do *Apache Spark*, demonstrando exemplos de modelos de aprendizagem de máquina.
 
 ## Palestras
 
@@ -154,7 +153,7 @@ contribuir com:
 
 A [Grokmaker](https://grokmaker.com) montou um espaço infantil personalizado para incentivar a participação de mães e pais no evento.
 
-A _GrokTrip_, unidade móvel da Grokmaker, ofereceu um espaço seguro para que os/as participantes pudessem deixar seus filhos e filhas se divertindo com atividades makers criadas por especialistas em educação, enquanto os adultos se divertem em meio a códigos e dados.
+A _GrokTrip_, unidade móvel da Grokmaker, ofereceu um espaço seguro para que os/as participantes pudessem deixar seus filhos e filhas se divertindo com atividades *makers* criadas por especialistas em educação, enquanto os adultos se divertem em meio a códigos e dados.
 
 A GrokTrip realizou atividades educacionais e recreativas personalizadas, o tempo todo e em todo evento. Mães e pais puderam participar juntos de um evento pela primeira vez sem ter que revezar os cuidados das crianças. E a cultura inclusiva da comunidade Python foi colocada em ação no Caipyra 2018.
 
@@ -195,7 +194,7 @@ A GrokTrip realizou atividades educacionais e recreativas personalizadas, o temp
 
 O Caipyra 2018 foi organizado pelo [grupy-sanca](http://www.grupysanca.com.br)!
 
-O grupy-sanca (Grupo de Usuários Python de São Carlos) é uma comunidade que reúne pessoas interessadas em desenvolvimento de software e na linguagem Python. Prezamos pela troca de conhecimento, respeito mútuo e diversidade (tanto de opinião quanto de tecnologias).
+O grupy-sanca (Grupo de Usuários Python de São Carlos) é uma comunidade que reúne pessoas interessadas em desenvolvimento de *software* e na linguagem Python. Prezamos pela troca de conhecimento, respeito mútuo e diversidade (tanto de opinião quanto de tecnologias).
 
 Somos um grupo da cidade de São Carlos (SP) e região. O grupo foi fundado em 28/06/2016 e desde então já tivemos:
 
@@ -260,9 +259,9 @@ Our event had an [awesome soundtrack](https://www.youtube.com/watch?v=EiXFGW75D-
 
 ![](imgs/DG.jpg)
 
-[Django Girls](https://djangogirls.org/) is an international nonprofit organization that aims to introduce women to the world of IT. They can learn how to build their first _website_ through tutorials organized by volunteers. This _website_ is built in HTML, CSS, Python and Django. _Django_ is an open source framework, written in Python, for web applications. The only prerequisite for participation is the person is interested! All the knowledge necessary to follow the tutorial is presented in the course.
+[Django Girls](https://djangogirls.org/) is an international nonprofit organization that aims to introduce women to the world of IT. They can learn how to build their first _website_ through tutorials organized by volunteers. This _website_ is built in HTML, CSS, Python and Django. _Django_ is an open source framework, written in Python, for web applications. The only prerequisite for participation is: the person is interested! All the knowledge necessary to follow the tutorial is presented in the course.
 
-On June 8th we had a _Django Girls_ tutorial. We had eighteen participants, six coaches, and six hours of course. The participants were, in general, university students of the most varied courses, academic degrees and levels of programming knowledge. The friendly and relaxed atmosphere allowed participants to feel at ease in expressing their doubts and thus progressing quickly. Many woman were programming for the first time in their life!! They seemed very enthusiastic and satisfied with their results and their knowledge.
+On June 8th we had a _Django Girls_ tutorial. We had eighteen participants, six coaches, and six hours of course. The participants were, in general, university students of the most varied courses, academic degrees and levels of programming knowledge. The friendly and relaxed atmosphere allowed participants to feel at ease in expressing their doubts and thus progressing quickly. Many woman were programming for the first time in their life!! They seemed very enthusiastic and satisfied with their results and their new knowledge.
 
 ## Tutorials
 
@@ -332,7 +331,22 @@ Some slides available [here](#lightning-talks-2)
 
 ![](imgs/sprint.jpg)
 
-See above
+Development sprints are a key part of most of Python events around the world. 
+During the *sprints* the participants can contribute to open-source projects in intensive days of learning.
+Newbies can work with more experienced people, providing a great environment of exchanges of experiences for everybody.
+
+Sprint is the moment to test, fix bugs, add new features and improve the documentation of projects you would like to contribute. Sprint is also a great opportunity to make friends, networking and create relationships that will extend beyond the conference.
+
+On Monday, June 11, the brave ones who survived the three days of the event gathered at [ONOVOLAB](http://www.onovolab.com) to
+contribute with:
+
+* [Certificator](https://github.com/lamenezes/certificator)
+
+  A certificate generator made in Python. Thus we were able to generate all Caipyra certificates!
+
+* Paçoquinha consumption
+
+  They had the arduous task of consuming our stock of paçoquinhas... 
 
 ## The little Caipyras :)
 
