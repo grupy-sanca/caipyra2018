@@ -102,6 +102,8 @@ Esses foram os _lightning talkistas_ e os temas deste ano:
   - Mario gazziro - Urna eletrônica de 3ª geração
   - Gabriel Palma - Python aplicado a biologia
   - Lucas Vido - Garoa Hacker Club
+  - Regis da Silva - *weppy*: um simples *web framework* em Python
+  - Eduardo Mendes - Canal do YouTube sobre *Live Coding* em Python
 - Domingo - Manhã
   - Silas Moura - Anaconda
   - Jairo - Shadow cliff para imagens geográficos
@@ -314,6 +316,8 @@ These were the _lightning talkers_ and the themes of this year:
   - Mario gazziro - 3rd Generation Electronic Urn
   - Gabriel Palma - Python applied to biology
   - Lucas Vido - Garoa Hacker Club
+  - Regis da Silva - *weppy*: simple Python web framework
+  - Eduardo Mendes - YouTube channel about python Live Coding
 - Sunday Morning
   - Silas Moura - Anaconda
   - Jairo - Shadow cliff for geographic images
@@ -451,6 +455,8 @@ To know more about the events organized by grupy-sanca:
 - Sábado - Tarde
   - [Osvaldo Santana](../LightningTalks/OsvaldoSantana-BrainFck.pdf)
   - [Mario Gazziro](../LightningTalks/MarioGazziro.pdf)
+  - [Regis da Silva](http://slides.com/regissilva/weppy)
+  - [Eduardo Mendes](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
 - Domingo - Manhã
 - Domingo - Tarde
   - [Marcelo Miky](../LightningTalks/Miky.pdf)
