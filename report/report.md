@@ -457,6 +457,7 @@ To know more about the events organized by grupy-sanca:
   - [Mario Gazziro](../LightningTalks/MarioGazziro.pdf)
   - [Regis da Silva](http://slides.com/regissilva/weppy)
   - [Eduardo Mendes](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
+  - [Fabricio Zuardi](https://www.scuttlebutt.nz/)
 - Domingo - Manhã
 - Domingo - Tarde
   - [Marcelo Miky](../LightningTalks/Miky.pdf)
