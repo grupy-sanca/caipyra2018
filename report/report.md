@@ -18,18 +18,18 @@ comunidade Python do interior de São Paulo, para pessoas interessadas em
 conhecer ou se aprofundar nesta linguagem, porém aberto a diversas
 tecnologias que são trazidas e abordadas pelos nossos ilustres convidados.
 
-A terceira edição do evento foi realizada na cidade São Carlos - São Paulo, no
+A terceira edição do evento foi realizada na cidade de São Carlos - São Paulo, no
 [Instituto de Ciências Matemáticas e de Computação](https://icmc.usp.br/) na
 [Universidade de São Paulo (USP)](https://www.usp.br/).
 
-Confira nosso [álbum de fotos](https://www.facebook.com/pg/grupysanca/photos/?tab=album&album_id=999307070247660)
-no Facebook!
+Confira [álbum de fotos](https://www.facebook.com/pg/grupysanca/photos/?tab=album&album_id=999307070247660)
+do Caipyra 2018 no Facebook!
 
 O evento está sempre crescendo:
 
 ![](imgs/peoples.png)
 
-É um evento inclusivo:
+É um evento que se esforça para ser inclusivo:
 
 ![](imgs/generos.png)
 
@@ -41,7 +41,7 @@ O evento custou cerca de 22 mil reais, gastos assim:
 
 ![](imgs/custos.png)
 
-Nosso eventou contou com uma
+Nosso evento contou com uma
 [trilha sonora fantástica!](https://www.youtube.com/watch?v=EiXFGW75D-8&list=PL0GC85adzsKqVFXGKntt-KB5dHskW5Gp7)
 
 ## Django Girls
@@ -50,11 +50,14 @@ Nosso eventou contou com uma
 
 [Django Girls](https://djangogirls.org/) é uma organização internacional, sem fins lucrativos, que visa apresentar mulheres ao mundo da Tecnologia da Informação, ensinando-lhes a construir seu primeiro _website_ através de tutoriais organizados por voluntárias. Esse _website_ é construído em HTML, CSS, Python e Django. _Django_ é um _framework open source_, escrito em Python, para aplicações web. O único pré-requisito para a participação é de interesse! Todo o conhecimento necessário seguir o tutorial é apresentado em seu decorrer.
 
-Na sexta-feira 08/junho tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
+Na sexta-feira 08/junho/2018 tivemos um tutorial do _Django Girls_. Contamos com dezoito participantes, seis treinadores, e seis horas de duração. As participantes eram, em geral, jovens estudantes universitárias, dos mais variados cursos, graus acadêmicos e níveis de conhecimento de programação. O ambiente amigável e descontraído permitiu que as participantes se sentissem à vontade para expressar suas dúvidas e, assim, progredir rapidamente. Muitas estavam programando pela primeira vez na vida!! Elas pareciam muito entusiasmadas e satisfeitas com os resultados obtidos e conhecimentos adquiridos.
+
+Confira o [álbum de fotos](https://www.facebook.com/pg/sancadjangogirls/photos/?tab=album&album_id=194123964561565)
+no Facebook.
 
 ## Tutoriais
 
-Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De manhã o tutorial _Testes Unitários com Python_ com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção.
+Tivemos dois tutoriais na sexta-feira, 8 de junho de 2018, relacionados à linguagem. De manhã o tutorial _Testes Unitários com Python_ com a Patrícia Morimoto, que ensinou os primeiros passos para começar a fazer testes unitários usando Python, para garantir entregas de software funcionais com qualidade e de fácil manutenção.
 
 À tarde tivemos o tutorial _Desenvolvendo Aplicações baseadas em Big Data com PySpark_ com Vinícius Aires Barros, que apresentou exemplos de aplicações *Big Data* utilizando o *Apache Spark (PySpark)*, conceitos e exemplos de aplicações com rotinas, *Map & Reduce*, *Filter*, *Order*, *Union*, etc, e a biblioteca *MLlib* do *Apache Spark*, demonstrando exemplos de modelos de aprendizagem de máquina.
 
@@ -63,7 +66,7 @@ Tivemos dois tutoriais na sexta-feira, 8 de junho, relacionados à linguagem. De
 Tivemos 16 palestras nesta edição do evento, distribuídas em dois
 auditórios durante dois dias:
 
-- Sábado
+- Sábado (09/06/2018)
   - Jadson Oliveira - Indicadores Inteligentes para Detecção de Epidemias de Dengue através do monitoramento de Redes Sociais em Tempo Real
   - Krissia Zawadzki - Hey físicas e físicos! Vocês têm um minutinho para ouvir a Pylavra da serpente quântica?
   - Prof. Dr. Rodrigo Fernandes de Mello - Teoria do Aprendizado Estatístico: Como garantir que Algoritmos de Aprendizado de Máquina funcionem?
@@ -72,7 +75,7 @@ auditórios durante dois dias:
   - Guilherme Vierno - Microservices em Python: desafios e soluções
   - Geraldo Barros - Internet Health Report:  Cinco tópicos-chave determinarão o futuro da Saúde da Internet
   - Prof. Dr. Paulo Matias - Hackeando a urna eletrônica brasileira com o Python
-- Domingo
+- Domingo (10/06/2018)
   - Juliana Oliveira - Processamento Paralelo para Pythonistas
   - Renne Rocha - Extraindo dados da internet usando Scrapy
   - Nilton Kazuyuki Ueda - [BI & Analytics] Data Visualization in Tableau with TabPy
@@ -82,7 +85,7 @@ auditórios durante dois dias:
   - Vitoria Ongaratto Baldan - Python na Astronomia
   - Osvaldo Santana - Como funciona um time remoto de desenvolvimento
 
-Os slides estão disponíveis [aqui](#slides).
+Os slides de todas as palestras estão disponíveis [aqui](#slides).
 
 
 ## Lightning Talks
@@ -94,7 +97,7 @@ e o próximo entra :D
 
 Esses foram os _lightning talkistas_ e os temas deste ano:
 
-- Sábado - Tarde
+- Sábado (09/06/2018) - Tarde
   - Osvaldo Santana - Advanced brain f*ck
   - Vinicius Mesel - Pyjobs
   - Renne Rocha - Flask Conf
@@ -104,7 +107,7 @@ Esses foram os _lightning talkistas_ e os temas deste ano:
   - Lucas Vido - Garoa Hacker Club
   - Regis da Silva - *weppy*: um simples *web framework* em Python
   - Eduardo Mendes - Canal do YouTube sobre *Live Coding* em Python
-- Domingo - Manhã
+- Domingo (10/06/2018) - Manhã
   - Silas Moura - Anaconda
   - Jairo - Shadow cliff para imagens geográficos
   - Cuducos
@@ -138,7 +141,7 @@ melhorar a documentação de projetos que você utiliza e gostaria de
 contribuir. O *sprint* também é uma ótima oportunidade para fazer amigos,
 *networking* e criar relações que se extenderão até após a conferência.
 
-Na segunda feira, 11 de Junho, os corajosos que sobreveviram aos três dias
+Na segunda feira, 11 de Junho de 2018, os corajosos que sobreveviram aos três dias
 anteriores do evento se reuniram no [ONOVOLAB](http://www.onovolab.com) para
 contribuir com:
 
@@ -204,13 +207,13 @@ O grupy-sanca (Grupo de Usuários Python de São Carlos) é uma comunidade que r
 Somos um grupo da cidade de São Carlos (SP) e região. O grupo foi fundado em 28/06/2016 e desde então já tivemos:
 
 - 18+ Coding Dojos
-- 20+ PyBares
-- 16+ Cursos e workshops
+- 21+ PyBares
+- 16+ Cursos e workshops de python
 - 6 PyLestras
-- 3 Eventos
-- 2 Sprints
+- 5 Eventos
+- 3 Sprints de contribuição de projetos _open source_
 
-Além disso, chegamos nos 961+ inscritos no Meetup!
+Além disso, chegamos nos 963+ inscritos no Meetup!
 
 Para saber mais sobre os eventos organizados pelo grupy-sanca acesse:
 
@@ -232,7 +235,7 @@ Caipyra is an event inspired by [Python Brasil](https://pythonbrasil.org.br/)
 (the biggest Python event in Latin America) and aims, without profit, to
 disseminate knowledge in different areas of technology.
 
-Caipyra is a meeting organized by the Python community in the interior of São Paulo
+Caipyra is organized by the Python community in the interior of São Paulo
 state, for people interested in learning or deepening their skills in this language,
 but also open to various technologies that are brought and approached by our
 distinguished guests.
@@ -249,7 +252,7 @@ The event is always growing:
 
 ![](imgs/peoples.png)
 
-It's an inclusive event:
+We try our best to make Caipyra an inclusive event:
 
 ![](imgs/generos.png)
 
@@ -257,7 +260,7 @@ And this is our secret to always improve:
 
 ![](imgs/foods.png)
 
-The event costed about 22 thousand Brazilian moneys, spent this way:
+The event costed about 22 thousand reais, spent this way:
 
 ![](imgs/custos.png)
 
@@ -269,11 +272,14 @@ Our event had an [awesome soundtrack](https://www.youtube.com/watch?v=EiXFGW75D-
 
 [Django Girls](https://djangogirls.org/) is an international nonprofit organization that aims to introduce women to the world of IT. They can learn how to build their first _website_ through tutorials organized by volunteers. This _website_ is built in HTML, CSS, Python and Django. _Django_ is an open source framework, written in Python, for web applications. The only prerequisite for participation is: the person is interested! All the knowledge necessary to follow the tutorial is presented in the course.
 
-On June 8th we had a _Django Girls_ tutorial. We had eighteen participants, six coaches, and six hours of course. The participants were, in general, university students of the most varied courses, academic degrees and levels of programming knowledge. The friendly and relaxed atmosphere allowed participants to feel at ease in expressing their doubts and thus progressing quickly. Many woman were programming for the first time in their life!! They seemed very enthusiastic and satisfied with their results and their new knowledge.
+On June 8th, 2018 we had a _Django Girls_ tutorial. We had eighteen participants, six coaches, and six hours of course. The participants were, in general, university students of the most varied courses, academic degrees and levels of programming knowledge. The friendly and relaxed atmosphere allowed participants to feel at ease in expressing their doubts and thus progressing quickly. Many woman were programming for the first time in their life!! They seemed very enthusiastic and satisfied with their results and their new knowledge.
+
+Check our [photos](https://www.facebook.com/pg/sancadjangogirls/photos/?tab=album&album_id=194123964561565)
+on Facebook.
 
 ## Tutorials
 
-We had two tutorials on June 8th related to the Python language. In the morning we had the tutorial _Unit Testing with Python_ with Patricia Morimoto, who taught the first steps to start doing unit tests using Python, to ensure functional and easy-to-maintain software deliveries.
+We had two tutorials on June 8th, 2018 related to the Python language. In the morning we had the tutorial _Unit Testing with Python_ with Patricia Morimoto, who taught the first steps to start doing unit tests using Python, to ensure functional and easy-to-maintain software deliveries.
 
 In the afternoon we had the tutorial _Developing Applications based on Big Data with PySpark_ with Vinícius Aires Barros, who presented examples of Big Data applications using Apache Spark (PySpark), concepts and examples of applications with routines, Map & Reduce, Filter, Order, Union, etc., and the MLlib library of Apache Spark, demonstrating examples of machine learning models.
 
@@ -347,7 +353,7 @@ Newbies can work with more experienced people, providing a great environment of 
 
 Sprint is the moment to test, fix bugs, add new features and improve the documentation of projects you would like to contribute. Sprint is also a great opportunity to make friends, networking and create relationships that will extend beyond the conference.
 
-On Monday, June 11, the brave ones who survived the three days of the event gathered at [ONOVOLAB](http://www.onovolab.com) to
+On Monday, June 11, 2018, the brave ones who survived the three days of the event gathered at [ONOVOLAB](http://www.onovolab.com) to
 contribute with:
 
 * [Certificator](https://github.com/lamenezes/certificator)
@@ -411,13 +417,13 @@ Grupy-sanca (Python User Group from São Carlos) is a community that brings toge
 We are a group from the city of São Carlos (SP) and region. The group was founded on 06/28/2016 and since then we have had:
 
 - 18+ Coding Dojos
-- 20+ "PyPub"
+- 21+ "PyPub"
 - 16+ Courses and workshops
 - 6 "PyTalks"
-- 3 Events
-- 2 Sprints
+- 5 Events
+- 3 Sprints
 
-Plus, we've got 961+ members in the Meetup!
+Plus, we've got 963+ members in the Meetup!
 
 To know more about the events organized by grupy-sanca:
 
