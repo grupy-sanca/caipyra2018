@@ -78,7 +78,7 @@ auditórios durante dois dias:
 - Domingo (10/06/2018)
   - [Juliana Oliveira - Processamento Paralelo para Pythonistas](https://www.youtube.com/watch?v=9hu3QpYGpM0&index=9&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
   - [Renne Rocha - Extraindo dados da internet usando Scrapy](https://www.youtube.com/watch?v=RAAduLT0CU8&index=10&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
-  - [Nilton Kazuyuki Ueda - [BI & Analytics]() Data Visualization in Tableau with TabPy](https://www.youtube.com/watch?v=HFOmvyvD0Kk&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=11)
+  - [Nilton Kazuyuki Ueda - [BI & Analytics] Data Visualization in Tableau with TabPy](https://www.youtube.com/watch?v=HFOmvyvD0Kk&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=11)
   - [João Rafael Martins - Introdução ao Machine Learning e NLP](https://www.youtube.com/watch?v=IqUYnEZrUrw&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=12)
   - [Danilo Roberto Shiga - Exceptions: e porque não são só para erros](https://www.youtube.com/watch?v=JBf31YZpXuE&index=13&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
   - [Eduardo Cuducos - Tecnologia cívica: o que importa são as perguntas!](https://www.youtube.com/watch?v=1FC_aYLcSEo&index=14&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
@@ -299,7 +299,7 @@ We had 16 talks in this edition, distributed in two auditoriums for two days:
 - Sunday
   - [Juliana Oliveira - Parallel Processing for Pythonists](https://www.youtube.com/watch?v=9hu3QpYGpM0&index=9&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
   - [Renne Rocha - Extracting data from internet using Scrapy](https://www.youtube.com/watch?v=RAAduLT0CU8&index=10&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
-  - [Nilton Kazuyuki Ueda - [BI & Analytics]() Data Visualization in Tableau with TabPy](https://www.youtube.com/watch?v=HFOmvyvD0Kk&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=11)
+  - [Nilton Kazuyuki Ueda - [BI & Analytics] Data Visualization in Tableau with TabPy](https://www.youtube.com/watch?v=HFOmvyvD0Kk&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=11)
   - [João Rafael Martins - Introduction to Machine Learning and NLP](https://www.youtube.com/watch?v=IqUYnEZrUrw&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=12)
   - [Danilo Roberto Shiga - Exceptions: and because they are not just for errors](https://www.youtube.com/watch?v=JBf31YZpXuE&index=13&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
   - [Eduardo Cuducos - Civic technology: what matters are the questions!](https://www.youtube.com/watch?v=1FC_aYLcSEo&index=14&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
