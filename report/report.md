@@ -67,23 +67,23 @@ Tivemos 16 palestras nesta edição do evento, distribuídas em dois
 auditórios durante dois dias:
 
 - Sábado (09/06/2018)
-  - Jadson Oliveira - Indicadores Inteligentes para Detecção de Epidemias de Dengue através do monitoramento de Redes Sociais em Tempo Real
-  - Krissia Zawadzki - Hey físicas e físicos! Vocês têm um minutinho para ouvir a Pylavra da serpente quântica?
-  - Prof. Dr. Rodrigo Fernandes de Mello - Teoria do Aprendizado Estatístico: Como garantir que Algoritmos de Aprendizado de Máquina funcionem?
-  - Beatriz Uezu - Visualizando query SQL a partir do ORM Django
-  - Caroline Dantas - Computação Neuromórfica - O que é isso??? Como se usa Python Nisso??
-  - Guilherme Vierno - Microservices em Python: desafios e soluções
-  - Geraldo Barros - Internet Health Report:  Cinco tópicos-chave determinarão o futuro da Saúde da Internet
-  - Prof. Dr. Paulo Matias - Hackeando a urna eletrônica brasileira com o Python
+  - [Jadson Oliveira - Indicadores Inteligentes para Detecção de Epidemias de Dengue através do monitoramento de Redes Sociais em Tempo Real](https://www.youtube.com/watch?v=gQr5iOl3dMo&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&t=499s&index=1)
+  - [Krissia Zawadzki - Hey físicas e físicos! Vocês têm um minutinho para ouvir a Pylavra da serpente quântica?](https://www.youtube.com/watch?v=zV8tItoERz0&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=2)
+  - [Prof. Dr. Rodrigo Fernandes de Mello - Teoria do Aprendizado Estatístico: Como garantir que Algoritmos de Aprendizado de Máquina funcionem?](https://www.youtube.com/watch?v=t7ksrXuZrck&index=3&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Beatriz Uezu - Visualizando query SQL a partir do ORM Django](https://www.youtube.com/watch?v=yi9T2wv-VTY&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=4)
+  - [Caroline Dantas - Computação Neuromórfica - O que é isso??? Como se usa Python Nisso??](https://www.youtube.com/watch?v=gPnyv5JRtcQ&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=5)
+  - [Guilherme Vierno - Microservices em Python: desafios e soluções](https://www.youtube.com/watch?v=fafx1_8KHaU&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=6)
+  - [Geraldo Barros - Internet Health Report:  Cinco tópicos-chave determinarão o futuro da Saúde da Internet](https://www.youtube.com/watch?v=xA_kRqv1RzU&index=7&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Prof. Dr. Paulo Matias - Hackeando a urna eletrônica brasileira com o Python](https://www.youtube.com/watch?v=MeMZDCecuIA&index=8&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
 - Domingo (10/06/2018)
-  - Juliana Oliveira - Processamento Paralelo para Pythonistas
-  - Renne Rocha - Extraindo dados da internet usando Scrapy
-  - Nilton Kazuyuki Ueda - [BI & Analytics] Data Visualization in Tableau with TabPy
-  - João Rafael Martins - Introdução ao Machine Learning e NLP
-  - Danilo Roberto Shiga - Exceptions: e porque não são só para erros
-  - Eduardo Cuducos - Tecnologia cívica: o que importa são as perguntas!
-  - Vitoria Ongaratto Baldan - Python na Astronomia
-  - Osvaldo Santana - Como funciona um time remoto de desenvolvimento
+  - [Juliana Oliveira - Processamento Paralelo para Pythonistas](https://www.youtube.com/watch?v=9hu3QpYGpM0&index=9&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Renne Rocha - Extraindo dados da internet usando Scrapy](https://www.youtube.com/watch?v=RAAduLT0CU8&index=10&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Nilton Kazuyuki Ueda - [BI & Analytics]() Data Visualization in Tableau with TabPy](https://www.youtube.com/watch?v=HFOmvyvD0Kk&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=11)
+  - [João Rafael Martins - Introdução ao Machine Learning e NLP](https://www.youtube.com/watch?v=IqUYnEZrUrw&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=12)
+  - [Danilo Roberto Shiga - Exceptions: e porque não são só para erros](https://www.youtube.com/watch?v=JBf31YZpXuE&index=13&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Eduardo Cuducos - Tecnologia cívica: o que importa são as perguntas!](https://www.youtube.com/watch?v=1FC_aYLcSEo&index=14&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Vitoria Ongaratto Baldan - Python na Astronomia](https://www.youtube.com/watch?v=4jnF0s26UOs&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=15)
+  - [Osvaldo Santana - Como funciona um time remoto de desenvolvimento](https://www.youtube.com/watch?v=xI9EJFMiyQo&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=16)
 
 Os slides de todas as palestras estão disponíveis [aqui](#slides).
 
@@ -288,23 +288,23 @@ In the afternoon we had the tutorial _Developing Applications based on Big Data 
 We had 16 talks in this edition, distributed in two auditoriums for two days:
 
 - Saturday
-  - Jadson Oliveira - Intelligent Indicators for Detection of Dengue fever Epidemics by Monitoring Social Networks in Real Time
-  - Krissia Zawadzki - Hey physicists! Do you have a minute to listen to the word of the quantum serpent?
-  - Prof. Dr. Rodrigo Fernandes de Mello - Statistical Learning Theory: How to Ensure Machine Learning Algorithms learn?
-  - Beatriz Uezu - Visualizing query SQL from ORM Django
-  - Caroline Dantas - Neuromorphic Computing - What is it??? How do I use Python in this?
-  - Guilherme Vierno - Microservices in Python: challenges and solutions
-  - Geraldo Barros - Internet Health Report: Five key topics will determine the future of Internet Health
-  - Prof. Dr. Paulo Matias - Hacking a Brazilian electronics urn with Python
+  - [Jadson Oliveira - Intelligent Indicators for Detection of Dengue fever Epidemics by Monitoring Social Networks in Real Time](https://www.youtube.com/watch?v=gQr5iOl3dMo&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&t=499s&index=1)
+  - [Krissia Zawadzki - Hey physicists! Do you have a minute to listen to the word of the quantum serpent?](https://www.youtube.com/watch?v=zV8tItoERz0&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=2)
+  - [Prof. Dr. Rodrigo Fernandes de Mello - Statistical Learning Theory: How to Ensure Machine Learning Algorithms learn?](https://www.youtube.com/watch?v=t7ksrXuZrck&index=3&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Beatriz Uezu - Visualizing query SQL from ORM Django](https://www.youtube.com/watch?v=yi9T2wv-VTY&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=4)
+  - [Caroline Dantas - Neuromorphic Computing - What is it??? How do I use Python in this?](https://www.youtube.com/watch?v=gPnyv5JRtcQ&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=5)
+  - [Guilherme Vierno - Microservices in Python: challenges and solutions](https://www.youtube.com/watch?v=fafx1_8KHaU&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=6)
+  - [Geraldo Barros - Internet Health Report: Five key topics will determine the future of Internet Health](https://www.youtube.com/watch?v=xA_kRqv1RzU&index=7&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Prof. Dr. Paulo Matias - Hacking a Brazilian electronics urn with Python](https://www.youtube.com/watch?v=MeMZDCecuIA&index=8&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
 - Sunday
-  - Juliana Oliveira - Parallel Processing for Pythonists
-  - Renne Rocha - Extracting data from internet using Scrapy
-  - Nilton Kazuyuki Ueda - [BI & Analytics] Data Visualization in Tableau with TabPy
-  - João Rafael Martins - Introduction to Machine Learning and NLP
-  - Danilo Roberto Shiga - Exceptions: and because they are not just for errors
-  - Eduardo Cuducos - Civic technology: what matters are the questions!
-  - Vitoria Ongaratto Baldan - Python in Astronomy
-  - Osvaldo Santana - How a Remote Development Team Works
+  - [Juliana Oliveira - Parallel Processing for Pythonists](https://www.youtube.com/watch?v=9hu3QpYGpM0&index=9&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Renne Rocha - Extracting data from internet using Scrapy](https://www.youtube.com/watch?v=RAAduLT0CU8&index=10&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Nilton Kazuyuki Ueda - [BI & Analytics]() Data Visualization in Tableau with TabPy](https://www.youtube.com/watch?v=HFOmvyvD0Kk&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=11)
+  - [João Rafael Martins - Introduction to Machine Learning and NLP](https://www.youtube.com/watch?v=IqUYnEZrUrw&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=12)
+  - [Danilo Roberto Shiga - Exceptions: and because they are not just for errors](https://www.youtube.com/watch?v=JBf31YZpXuE&index=13&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Eduardo Cuducos - Civic technology: what matters are the questions!](https://www.youtube.com/watch?v=1FC_aYLcSEo&index=14&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV)
+  - [Vitoria Ongaratto Baldan - Python in Astronomy](https://www.youtube.com/watch?v=4jnF0s26UOs&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=15)
+  - [Osvaldo Santana - How a Remote Development Team Works](https://www.youtube.com/watch?v=xI9EJFMiyQo&list=PLhJjEHCkDOLuPbeibRdXlfERPO6_WfXYV&index=16)
 
 Slides are available [here](#slides).
 
@@ -319,7 +319,7 @@ These were the _lightning talkers_ and the themes of this year:
   - Vinicius Mesel - Pyjobs
   - Renne Rocha - Flask Conf
   - Fabricio - Scutlle butt
-  - Mario gazziro - 3rd Generation Electronic Urn
+  - Mario gazziro - 3rd Generation Electronic Voting Machines
   - Gabriel Palma - Python applied to biology
   - Lucas Vido - Garoa Hacker Club
   - Regis da Silva - *weppy*: simple Python web framework
